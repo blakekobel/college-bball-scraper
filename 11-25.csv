@@ -1,0 +1,358 @@
+Team,KenPomRank,KenPomVal,BPIrank,BPIval,SRS,o_eff,d_eff,ppg,papg,Pace,Three_Par,True_Shoot,Tov,Opp_Three_Par,Opp_True_Shoot,Opp_Tov,record_date
+"['Abilene Christian', 'Abilene Christian', 'Abilene Christian']",156,+0.05,161,0.0,,,,,,,,,,,,,2020-11-25 08:34:57.970227
+"['Air Force', 'Air Force', 'Air Force']",224,-5.70,313,-6.5,,,,,,,,,,,,,2020-11-25 08:34:57.970263
+"['Akron', 'Akron', 'Akron']",144,+1.64,125,2.1,,,,,,,,,,,,,2020-11-25 08:34:57.970221
+"['Alabama', 'Alabama', 'Alabama']",46,+15.68,72,5.0,,,,,,,,,,,,,2020-11-25 08:34:57.970170
+"['Alabama A&M', 'Alabama A&M', 'Alabama A&M']",343,-18.70,328,-7.6,,,,,,,,,,,,,2020-11-25 08:34:57.970324
+"['Alabama St.', 'Alabama State', 'Alabama State']",351,-21.70,344,-11.7,,,,,,,,,,,,,2020-11-25 08:34:57.970329
+"['Albany', 'Albany', 'Albany (NY)']",301,-10.71,165,-0.4,,,,,,,,,,,,,2020-11-25 08:34:57.970303
+"['Alcorn St.', 'Alcorn State', 'Alcorn State']",336,-16.88,270,-4.3,,,,,,,,,,,,,2020-11-25 08:34:57.970321
+"['American', 'American', 'American']",259,-7.90,265,-4.1,,,,,,,,,,,,,2020-11-25 08:34:57.970281
+"['Appalachian St.', 'Appalachian State', 'Appalachian State']",192,-2.91,183,-0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970246
+"['Arizona', 'Arizona', 'Arizona']",38,+16.99,68,5.3,,,,,,,,,,,,,2020-11-25 08:34:57.970166
+"['Arizona St.', 'Arizona State', 'Arizona State']",23,+19.52,29,8.0,,,,,,,,,,,,,2020-11-25 08:34:57.970158
+"['Arkansas', 'Arkansas', 'Arkansas']",54,+14.91,50,6.5,,,,,,,,,,,,,2020-11-25 08:34:57.970174
+"['Arkansas Pine Bluff', 'Arkansas-Pine Bluff', 'Arkansas-Pine Bluff']",353,-22.28,317,-6.7,,,,,,,,,,,,,2020-11-25 08:34:57.970330
+"['Arkansas St.', 'Arkansas State', 'Arkansas State']",244,-7.18,325,-7.2,,,,,,,,,,,,,2020-11-25 08:34:57.970273
+"['Army', 'Army', 'Army']",270,-8.57,310,-6.4,,,,,,,,,,,,,2020-11-25 08:34:57.970287
+"['Auburn', 'Auburn', 'Auburn']",66,+12.74,134,1.4,,,,,,,,,,,,,2020-11-25 08:34:57.970181
+"['Austin Peay', 'Austin Peay', 'Austin Peay']",139,+1.95,142,0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970219
+"['BYU', 'BYU', 'Brigham Young']",88,+8.89,24,8.4,,,,,,,,,,,,,2020-11-25 08:34:57.970192
+"['Ball St.', 'Ball State', 'Ball State']",129,+3.48,168,-0.5,,,,,,,,,,,,,2020-11-25 08:34:57.970213
+"['Baylor', 'Baylor', 'Baylor']",3,+26.24,3,11.6,,,,,,,,,,,,,2020-11-25 08:34:57.970147
+"['Bellarmine', 'Bellarmine', 'Bellarmine']",289,-10.09,345,-12.3,,,,,,,,,,,,,2020-11-25 08:34:57.970296
+"['Belmont', 'Belmont', 'Belmont']",96,+7.65,128,2.0,,,,,,,,,,,,,2020-11-25 08:34:57.970196
+['Bethune Cookman'],349,-20.66,,,,,,,,,,,,,,,2020-11-25 08:34:57.970328
+"['Binghamton', 'Binghamton', 'Binghamton']",341,-18.38,253,-3.5,,,,,,,,,,,,,2020-11-25 08:34:57.970323
+"['Boise St.', 'Boise State', 'Boise State']",105,+6.15,104,3.2,,,,,,,,,,,,,2020-11-25 08:34:57.970201
+"['Boston College', 'Boston College', 'Boston College']",86,+9.46,87,4.1,,,,,,,,,,,,,2020-11-25 08:34:57.970191
+"['Boston University', 'Boston University', 'Boston University']",177,-1.82,144,0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970239
+"['Bowling Green', 'Bowling Green', 'Bowling Green State']",164,-0.88,156,0.1,,,,,,,,,,,,,2020-11-25 08:34:57.970232
+"['Bradley', 'Bradley', 'Bradley']",126,+3.54,99,3.5,,,,,,,,,,,,,2020-11-25 08:34:57.970212
+"['Brown', 'Brown']",225,-5.83,,,,,,,,,,,,,,,2020-11-25 08:34:57.970263
+"['Bryant', 'Bryant', 'Bryant']",311,-11.44,320,-7.0,,,,,,,,,,,,,2020-11-25 08:34:57.970308
+"['Bucknell', 'Bucknell', 'Bucknell']",240,-6.95,172,-0.6,,,,,,,,,,,,,2020-11-25 08:34:57.970271
+"['Buffalo', 'Buffalo', 'Buffalo']",121,+4.19,113,2.7,,,,,,,,,,,,,2020-11-25 08:34:57.970209
+"['Butler', 'Butler', 'Butler']",57,+14.66,60,6.0,,,,,,,,,,,,,2020-11-25 08:34:57.970176
+"['Cal Baptist', 'California Baptist', 'California Baptist']",300,-10.66,256,-3.7,,,,,,,,,,,,,2020-11-25 08:34:57.970302
+"['Cal Poly', 'Cal Poly', 'Cal Poly']",324,-13.31,283,-4.8,,,,,,,,,,,,,2020-11-25 08:34:57.970314
+"['Cal St. Bakersfield', 'CSU Bakersfield', 'Cal State Bakersfield']",193,-3.01,163,-0.3,,,,,,,,,,,,,2020-11-25 08:34:57.970247
+"['Cal St. Fullerton', 'CSU Fullerton', 'Cal State Fullerton']",326,-13.74,252,-3.5,,,,,,,,,,,,,2020-11-25 08:34:57.970315
+"['Cal St. Northridge', 'CSU Northridge', 'Cal State Northridge']",317,-12.09,178,-0.8,,,,,,,,,,,,,2020-11-25 08:34:57.970311
+"['California', 'California', 'University of California']",118,+4.48,91,3.9,,,,,,,,,,,,,2020-11-25 08:34:57.970208
+"['Campbell', 'Campbell', 'Campbell']",253,-7.59,225,-2.6,,,,,,,,,,,,,2020-11-25 08:34:57.970278
+"['Canisius', 'Canisius', 'Canisius']",223,-5.69,162,-0.1,,,,,,,,,,,,,2020-11-25 08:34:57.970262
+"['Central Arkansas', 'Central Arkansas', 'Central Arkansas']",256,-7.78,228,-2.7,,,,,,,,,,,,,2020-11-25 08:34:57.970279
+"['Central Connecticut', 'Central Connecticut', 'Central Connecticut State']",335,-16.38,314,-6.5,,,,,,,,,,,,,2020-11-25 08:34:57.970320
+"['Central Michigan', 'Central Michigan', 'Central Michigan']",222,-5.47,218,-2.4,,,,,,,,,,,,,2020-11-25 08:34:57.970262
+"['Charleston', 'Charleston', 'College of Charleston']",176,-1.76,121,2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970238
+"['Charleston Southern', 'Charleston Southern', 'Charleston Southern']",261,-8.19,288,-5.0,,,,,,,,,,,,,2020-11-25 08:34:57.970282
+"['Charlotte', 'Charlotte', 'Charlotte']",172,-1.54,171,-0.6,,,,,,,,,,,,,2020-11-25 08:34:57.970236
+"['Chattanooga', 'Chattanooga', 'Chattanooga']",209,-3.97,157,0.1,,,,,,,,,,,,,2020-11-25 08:34:57.970255
+"['Chicago St.', 'Chicago State', 'Chicago State']",354,-23.71,346,-12.5,,,,,,,,,,,,,2020-11-25 08:34:57.970330
+"['Cincinnati', 'Cincinnati', 'Cincinnati']",60,+14.30,73,5.0,,,,,,,,,,,,,2020-11-25 08:34:57.970178
+"['Clemson', 'Clemson', 'Clemson']",40,+16.70,38,7.0,,,,,,,,,,,,,2020-11-25 08:34:57.970167
+"['Cleveland St.', 'Cleveland State', 'Cleveland State']",213,-5.01,257,-3.7,,,,,,,,,,,,,2020-11-25 08:34:57.970257
+"['Coastal Carolina', 'Coastal Carolina', 'Coastal Carolina']",169,-1.30,210,-2.0,,,,,,,,,,,,,2020-11-25 08:34:57.970234
+"['Colgate', 'Colgate', 'Colgate']",145,+1.53,136,1.3,,,,,,,,,,,,,2020-11-25 08:34:57.970222
+"['Colorado', 'Colorado', 'Colorado']",62,+14.01,41,6.9,,,,,,,,,,,,,2020-11-25 08:34:57.970179
+"['Colorado St.', 'Colorado State', 'Colorado State']",116,+4.65,116,2.4,,,,,,,,,,,,,2020-11-25 08:34:57.970207
+"['Columbia', 'Columbia']",281,-9.38,,,,,,,,,,,,,,,2020-11-25 08:34:57.970292
+"['Connecticut', 'UConn', 'Connecticut']",43,+16.26,32,7.5,,,,,,,,,,,,,2020-11-25 08:34:57.970169
+"['Coppin St.', 'Coppin State', 'Coppin State']",332,-15.75,291,-5.1,,,,,,,,,,,,,2020-11-25 08:34:57.970318
+"['Cornell', 'Cornell']",198,-3.33,,,,,,,,,,,,,,,2020-11-25 08:34:57.970249
+"['Creighton', 'Creighton', 'Creighton']",14,+21.17,10,10.5,,,,,,,,,,,,,2020-11-25 08:34:57.970153
+"['Dartmouth', 'Dartmouth']",275,-8.83,,,,,,,,,,,,,,,2020-11-25 08:34:57.970289
+"['Davidson', 'Davidson', 'Davidson']",81,+10.04,36,7.1,,,,,,,,,,,,,2020-11-25 08:34:57.970189
+"['Dayton', 'Dayton', 'Dayton']",49,+15.14,70,5.2,,,,,,,,,,,,,2020-11-25 08:34:57.970172
+"['DePaul', 'DePaul', 'DePaul']",85,+9.52,74,5.0,,,,,,,,,,,,,2020-11-25 08:34:57.970191
+"['Delaware', 'Delaware', 'Delaware']",221,-5.37,240,-3.2,,,,,,,,,,,,,2020-11-25 08:34:57.970261
+"['Delaware St.', 'Delaware State', 'Delaware State']",350,-21.33,337,-8.9,,,,,,,,,,,,,2020-11-25 08:34:57.970328
+"['Denver', 'Denver', 'Denver']",294,-10.32,312,-6.5,,,,,,,,,,,,,2020-11-25 08:34:57.970299
+"['Detroit', 'Detroit Mercy', 'Detroit Mercy']",218,-5.14,158,0.1,,,,,,,,,,,,,2020-11-25 08:34:57.970260
+"['Dixie St.', 'Dixie State', 'Dixie State']",321,-12.83,335,-8.8,,,,,,,,,,,,,2020-11-25 08:34:57.970313
+"['Drake', 'Drake', 'Drake']",158,-0.28,124,2.1,,,,,,,,,,,,,2020-11-25 08:34:57.970228
+"['Drexel', 'Drexel', 'Drexel']",162,-0.68,174,-0.7,,,,,,,,,,,,,2020-11-25 08:34:57.970231
+"['Duke', 'Duke', 'Duke']",2,+26.31,8,10.8,,,,,,,,,,,,,2020-11-25 08:34:57.970147
+"['Duquesne', 'Duquesne', 'Duquesne']",82,+9.98,44,6.8,,,,,,,,,,,,,2020-11-25 08:34:57.970189
+"['East Carolina', 'East Carolina', 'East Carolina']",123,+3.86,131,1.7,,,,,,,,,,,,,2020-11-25 08:34:57.970210
+"['East Tennessee St.', 'East Tennessee State', 'East Tennessee State']",163,-0.74,186,-1.2,,,,,,,,,,,,,2020-11-25 08:34:57.970231
+"['Eastern Illinois', 'Eastern Illinois', 'Eastern Illinois']",167,-1.08,140,1.0,,,,,,,,,,,,,2020-11-25 08:34:57.970233
+"['Eastern Kentucky', 'Eastern Kentucky', 'Eastern Kentucky']",219,-5.20,139,1.0,,,,,,,,,,,,,2020-11-25 08:34:57.970260
+"['Eastern Michigan', 'Eastern Michigan', 'Eastern Michigan']",155,+0.25,173,-0.7,,,,,,,,,,,,,2020-11-25 08:34:57.970227
+"['Eastern Washington', 'Eastern Washington', 'Eastern Washington']",143,+1.73,169,-0.5,,,,,,,,,,,,,2020-11-25 08:34:57.970221
+"['Elon', 'Elon', 'Elon']",205,-3.78,185,-1.1,,,,,,,,,,,,,2020-11-25 08:34:57.970253
+"['Evansville', 'Evansville', 'Evansville']",316,-11.82,309,-6.2,,,,,,,,,,,,,2020-11-25 08:34:57.970310
+"['FIU', 'Florida International', 'Florida International']",195,-3.12,188,-1.2,,,,,,,,,,,,,2020-11-25 08:34:57.970248
+"['Fairfield', 'Fairfield', 'Fairfield']",257,-7.82,217,-2.4,,,,,,,,,,,,,2020-11-25 08:34:57.970280
+"['Fairleigh Dickinson', 'Fairleigh Dickinson', 'Fairleigh Dickinson']",230,-6.02,179,-0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970266
+"['Florida', 'Florida', 'Florida']",24,+19.48,15,9.5,,,,,,,,,,,,,2020-11-25 08:34:57.970159
+"['Florida A&M', 'Florida A&M', 'Florida A&M']",322,-12.83,336,-8.9,,,,,,,,,,,,,2020-11-25 08:34:57.970313
+"['Florida Atlantic', 'Florida Atlantic', 'Florida Atlantic']",185,-2.74,296,-5.3,,,,,,,,,,,,,2020-11-25 08:34:57.970243
+"['Florida Gulf Coast', 'Florida Gulf Coast', 'Florida Gulf Coast']",255,-7.64,236,-3.0,,,,,,,,,,,,,2020-11-25 08:34:57.970279
+"['Florida St.', 'Florida State', 'Florida State']",18,+20.02,51,6.4,,,,,,,,,,,,,2020-11-25 08:34:57.970156
+"['Fordham', 'Fordham', 'Fordham']",178,-2.12,239,-3.1,,,,,,,,,,,,,2020-11-25 08:34:57.970239
+"['Fresno St.', 'Fresno State', 'Fresno State']",151,+0.66,154,0.2,,,,,,,,,,,,,2020-11-25 08:34:57.970225
+"['Furman', 'Furman', 'Furman']",78,+10.57,106,3.1,,,,,,,,,,,,,2020-11-25 08:34:57.970187
+"['Gardner Webb', 'Gardner-Webb', 'Gardner-Webb']",248,-7.33,208,-2.0,,,,,,,,,,,,,2020-11-25 08:34:57.970275
+"['George Mason', 'George Mason', 'George Mason']",110,+5.69,115,2.5,,,,,,,,,,,,,2020-11-25 08:34:57.970204
+"['George Washington', 'George Washington', 'George Washington']",206,-3.81,143,0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970254
+"['Georgetown', 'Georgetown', 'Georgetown']",87,+9.07,102,3.3,,,,,,,,,,,,,2020-11-25 08:34:57.970192
+"['Georgia', 'Georgia', 'Georgia']",95,+8.01,88,4.1,,,,,,,,,,,,,2020-11-25 08:34:57.970196
+"['Georgia Southern', 'Georgia Southern', 'Georgia Southern']",212,-4.38,300,-5.6,,,,,,,,,,,,,2020-11-25 08:34:57.970257
+"['Georgia St.', 'Georgia State', 'Georgia State']",108,+5.96,97,3.7,,,,,,,,,,,,,2020-11-25 08:34:57.970203
+"['Georgia Tech', 'Georgia Tech', 'Georgia Tech']",72,+11.32,71,5.2,,,,,,,,,,,,,2020-11-25 08:34:57.970184
+"['Gonzaga', 'Gonzaga', 'Gonzaga']",1,+27.89,4,11.2,,,,,,,,,,,,,2020-11-25 08:34:57.970138
+"['Grambling St.', 'Grambling', 'Grambling']",330,-14.73,286,-5.0,,,,,,,,,,,,,2020-11-25 08:34:57.970317
+"['Grand Canyon', 'Grand Canyon', 'Grand Canyon']",165,-0.95,103,3.2,,,,,,,,,,,,,2020-11-25 08:34:57.970232
+"['Green Bay', 'Green Bay', 'Green Bay']",268,-8.49,329,-7.7,,,,,,,,,,,,,2020-11-25 08:34:57.970286
+"['Hampton', 'Hampton', 'Hampton']",337,-16.91,301,-5.6,,,,,,,,,,,,,2020-11-25 08:34:57.970321
+"['Hartford', 'Hartford', 'Hartford']",307,-11.22,269,-4.1,,,,,,,,,,,,,2020-11-25 08:34:57.970306
+"['Harvard', 'Harvard']",154,+0.55,,,,,,,,,,,,,,,2020-11-25 08:34:57.970226
+"['Hawaii', ""Hawai'i"", 'Hawaii']",231,-6.13,197,-1.6,,,,,,,,,,,,,2020-11-25 08:34:57.970266
+"['High Point', 'High Point']",310,-11.36,,,,,,,,,,,,,,,2020-11-25 08:34:57.970307
+"['Hofstra', 'Hofstra', 'Hofstra']",153,+0.59,126,2.0,,,,,,,,,,,,,2020-11-25 08:34:57.970226
+"['Holy Cross', 'Holy Cross', 'Holy Cross']",346,-19.74,331,-7.8,,,,,,,,,,,,,2020-11-25 08:34:57.970326
+"['Houston', 'Houston', 'Houston']",21,+19.73,16,9.3,,,,,,,,,,,,,2020-11-25 08:34:57.970157
+"['Houston Baptist', 'Houston Baptist', 'Houston Baptist']",347,-20.14,319,-6.9,,,,,,,,,,,,,2020-11-25 08:34:57.970326
+"['Howard', 'Howard', 'Howard']",293,-10.23,274,-4.4,,,,,,,,,,,,,2020-11-25 08:34:57.970298
+"['IUPUI', 'IUPUI', 'IUPUI']",262,-8.20,280,-4.6,,,,,,,,,,,,,2020-11-25 08:34:57.970282
+"['Idaho', 'Idaho', 'Idaho']",339,-17.23,327,-7.4,,,,,,,,,,,,,2020-11-25 08:34:57.970322
+"['Idaho St.', 'Idaho State', 'Idaho State']",302,-10.81,289,-5.1,,,,,,,,,,,,,2020-11-25 08:34:57.970303
+"['Illinois', 'Illinois', 'Illinois']",17,+20.03,25,8.3,,,,,,,,,,,,,2020-11-25 08:34:57.970155
+"['Illinois Chicago', 'UIC', 'Illinois-Chicago']",265,-8.37,279,-4.6,,,,,,,,,,,,,2020-11-25 08:34:57.970284
+"['Illinois St.', 'Illinois State', 'Illinois State']",239,-6.83,248,-3.4,,,,,,,,,,,,,2020-11-25 08:34:57.970270
+"['Incarnate Word', 'Incarnate Word', 'Incarnate Word']",345,-19.69,332,-7.9,,,,,,,,,,,,,2020-11-25 08:34:57.970325
+"['Indiana', 'Indiana', 'Indiana']",26,+18.96,31,7.7,,,,,,,,,,,,,2020-11-25 08:34:57.970160
+"['Indiana St.', 'Indiana State', 'Indiana State']",135,+2.28,181,-0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970217
+"['Iona', 'Iona', 'Iona']",263,-8.26,219,-2.4,,,,,,,,,,,,,2020-11-25 08:34:57.970283
+"['Iowa', 'Iowa', 'Iowa']",13,+21.23,2,11.8,,,,,,,,,,,,,2020-11-25 08:34:57.970153
+"['Iowa St.', 'Iowa State', 'Iowa State']",67,+12.72,35,7.2,,,,,,,,,,,,,2020-11-25 08:34:57.970181
+"['Jackson St.', 'Jackson State', 'Jackson State']",308,-11.24,233,-2.9,,,,,,,,,,,,,2020-11-25 08:34:57.970306
+"['Jacksonville', 'Jacksonville', 'Jacksonville']",315,-11.75,251,-3.5,,,,,,,,,,,,,2020-11-25 08:34:57.970310
+"['Jacksonville St.', 'Jacksonville State', 'Jacksonville State']",304,-11.06,276,-4.5,,,,,,,,,,,,,2020-11-25 08:34:57.970304
+"['James Madison', 'James Madison', 'James Madison']",272,-8.64,145,0.8,,,,,,,,,,,,,2020-11-25 08:34:57.970288
+"['Kansas', 'Kansas', 'Kansas']",5,+24.32,9,10.6,,,,,,,,,,,,,2020-11-25 08:34:57.970149
+"['Kansas St.', 'Kansas State', 'Kansas State']",114,+5.26,111,2.8,,,,,,,,,,,,,2020-11-25 08:34:57.970206
+"['Kennesaw St.', 'Kennesaw State', 'Kennesaw State']",352,-22.01,340,-10.3,,,,,,,,,,,,,2020-11-25 08:34:57.970329
+"['Kent St.', 'Kent State', 'Kent State']",174,-1.68,259,-3.7,,,,,,,,,,,,,2020-11-25 08:34:57.970237
+"['Kentucky', 'Kentucky', 'Kentucky']",12,+21.24,55,6.3,,,,,,,,,,,,,2020-11-25 08:34:57.970152
+"['LIU', 'Long Island University', 'Long Island University']",282,-9.41,254,-3.5,,,,,,,,,,,,,2020-11-25 08:34:57.970293
+"['LSU', 'LSU', 'Louisiana State']",37,+17.40,26,8.1,,,,,,,,,,,,,2020-11-25 08:34:57.970165
+"['La Salle', 'La Salle', 'La Salle']",150,+1.05,153,0.3,,,,,,,,,,,,,2020-11-25 08:34:57.970224
+"['Lafayette', 'Lafayette', 'Lafayette']",226,-5.84,201,-1.7,,,,,,,,,,,,,2020-11-25 08:34:57.970264
+"['Lamar', 'Lamar', 'Lamar']",245,-7.21,238,-3.1,,,,,,,,,,,,,2020-11-25 08:34:57.970274
+"['Lehigh', 'Lehigh', 'Lehigh']",297,-10.52,321,-7.1,,,,,,,,,,,,,2020-11-25 08:34:57.970301
+"['Liberty', 'Liberty', 'Liberty']",166,-0.95,133,1.4,,,,,,,,,,,,,2020-11-25 08:34:57.970233
+"['Lipscomb', 'Lipscomb', 'Lipscomb']",171,-1.53,220,-2.5,,,,,,,,,,,,,2020-11-25 08:34:57.970236
+"['Little Rock', 'Little Rock', 'Little Rock']",134,+2.46,189,-1.2,,,,,,,,,,,,,2020-11-25 08:34:57.970216
+"['Long Beach St.', 'Long Beach State', 'Cal State Long Beach']",216,-5.12,212,-2.2,,,,,,,,,,,,,2020-11-25 08:34:57.970259
+"['Longwood', 'Longwood', 'Longwood']",327,-14.00,307,-6.0,,,,,,,,,,,,,2020-11-25 08:34:57.970316
+"['Louisiana', 'Louisiana', 'Louisiana']",160,-0.50,272,-4.3,,,,,,,,,,,,,2020-11-25 08:34:57.970230
+"['Louisiana Monroe', 'UL Monroe', 'Louisiana-Monroe']",266,-8.46,334,-8.6,,,,,,,,,,,,,2020-11-25 08:34:57.970285
+"['Louisiana Tech', 'Louisiana Tech', 'Louisiana Tech']",109,+5.86,108,3.0,,,,,,,,,,,,,2020-11-25 08:34:57.970203
+"['Louisville', 'Louisville', 'Louisville']",28,+18.47,59,6.0,,,,,,,,,,,,,2020-11-25 08:34:57.970161
+"['Loyola Chicago', 'Loyola Chicago', 'Loyola (IL)']",47,+15.49,52,6.4,,,,,,,,,,,,,2020-11-25 08:34:57.970171
+"['Loyola MD', 'Loyola (MD)', 'Loyola (MD)']",249,-7.38,231,-2.9,,,,,,,,,,,,,2020-11-25 08:34:57.970276
+"['Loyola Marymount', 'Loyola Marymount', 'Loyola Marymount']",146,+1.32,112,2.8,,,,,,,,,,,,,2020-11-25 08:34:57.970222
+"['Maine', 'Maine', 'Maine']",348,-20.38,308,-6.0,,,,,,,,,,,,,2020-11-25 08:34:57.970327
+"['Manhattan', 'Manhattan', 'Manhattan']",288,-10.02,193,-1.4,,,,,,,,,,,,,2020-11-25 08:34:57.970296
+"['Marist', 'Marist', 'Marist']",242,-7.10,244,-3.3,,,,,,,,,,,,,2020-11-25 08:34:57.970272
+"['Marquette', 'Marquette', 'Marquette']",36,+17.74,61,6.0,,,,,,,,,,,,,2020-11-25 08:34:57.970165
+"['Marshall', 'Marshall', 'Marshall']",99,+7.37,80,4.5,,,,,,,,,,,,,2020-11-25 08:34:57.970198
+"['Maryland', 'Maryland', 'Maryland']",51,+15.02,63,5.7,,,,,,,,,,,,,2020-11-25 08:34:57.970173
+"['Maryland Eastern Shore', 'Maryland-Eastern Shore']",356,-25.73,,,,,,,,,,,,,,,2020-11-25 08:34:57.970331
+"['Massachusetts', 'UMass', 'Massachusetts']",124,+3.85,123,2.2,,,,,,,,,,,,,2020-11-25 08:34:57.970211
+"['McNeese St.', 'McNeese', 'McNeese State']",323,-13.13,275,-4.5,,,,,,,,,,,,,2020-11-25 08:34:57.970314
+"['Memphis', 'Memphis', 'Memphis']",39,+16.98,54,6.3,,,,,,,,,,,,,2020-11-25 08:34:57.970166
+"['Mercer', 'Mercer', 'Mercer']",189,-2.81,150,0.5,,,,,,,,,,,,,2020-11-25 08:34:57.970245
+"['Merrimack', 'Merrimack', 'Merrimack']",303,-10.99,205,-1.9,,,,,,,,,,,,,2020-11-25 08:34:57.970304
+"['Miami FL', 'Miami', 'Miami (FL)']",41,+16.67,47,6.7,,,,,,,,,,,,,2020-11-25 08:34:57.970168
+"['Miami OH', 'Miami (OH)', 'Miami (OH)']",173,-1.56,232,-2.9,,,,,,,,,,,,,2020-11-25 08:34:57.970237
+"['Michigan', 'Michigan', 'Michigan']",15,+20.95,17,9.1,,,,,,,,,,,,,2020-11-25 08:34:57.970154
+"['Michigan St.', 'Michigan State', 'Michigan State']",11,+21.76,6,10.9,,,,,,,,,,,,,2020-11-25 08:34:57.970152
+"['Middle Tennessee', 'Middle Tennessee', 'Middle Tennessee']",184,-2.59,151,0.4,,,,,,,,,,,,,2020-11-25 08:34:57.970242
+"['Milwaukee', 'Milwaukee', 'Milwaukee']",285,-9.92,216,-2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970294
+"['Minnesota', 'Minnesota', 'Minnesota']",30,+18.27,39,6.9,,,,,,,,,,,,,2020-11-25 08:34:57.970162
+"['Mississippi', 'Ole Miss', 'Mississippi']",42,+16.48,53,6.4,,,,,,,,,,,,,2020-11-25 08:34:57.970168
+"['Mississippi St.', 'Mississippi State', 'Mississippi State']",77,+10.61,58,6.0,,,,,,,,,,,,,2020-11-25 08:34:57.970187
+"['Mississippi Valley St.', 'Mississippi Valley State', 'Mississippi Valley State']",357,-30.64,347,-13.9,,,,,,,,,,,,,2020-11-25 08:34:57.970332
+"['Missouri', 'Missouri', 'Missouri']",59,+14.31,66,5.4,,,,,,,,,,,,,2020-11-25 08:34:57.970177
+"['Missouri St.', 'Missouri State', 'Missouri State']",168,-1.20,166,-0.4,,,,,,,,,,,,,2020-11-25 08:34:57.970234
+"['Monmouth', 'Monmouth', 'Monmouth']",182,-2.46,175,-0.8,,,,,,,,,,,,,2020-11-25 08:34:57.970241
+"['Montana', 'Montana', 'Montana']",157,-0.10,167,-0.4,,,,,,,,,,,,,2020-11-25 08:34:57.970228
+"['Montana St.', 'Montana State', 'Montana State']",220,-5.25,226,-2.7,,,,,,,,,,,,,2020-11-25 08:34:57.970261
+"['Morehead St.', 'Morehead State', 'Morehead State']",318,-12.33,242,-3.3,,,,,,,,,,,,,2020-11-25 08:34:57.970311
+"['Morgan St.', 'Morgan State', 'Morgan State']",331,-15.02,200,-1.7,,,,,,,,,,,,,2020-11-25 08:34:57.970318
+"[""Mount St. Mary's"", ""Mount St. Mary's"", ""Mount St. Mary's""]",260,-8.10,264,-4.0,,,,,,,,,,,,,2020-11-25 08:34:57.970281
+"['Murray St.', 'Murray State', 'Murray State']",94,+8.02,86,4.2,,,,,,,,,,,,,2020-11-25 08:34:57.970195
+"['N.C. State', 'NC State', 'North Carolina State']",55,+14.91,22,8.7,,,,,,,,,,,,,2020-11-25 08:34:57.970175
+"['NJIT', 'NJIT', 'NJIT']",200,-3.37,198,-1.6,,,,,,,,,,,,,2020-11-25 08:34:57.970251
+"['Navy', 'Navy', 'Navy']",194,-3.03,211,-2.2,,,,,,,,,,,,,2020-11-25 08:34:57.970247
+"['Nebraska', 'Nebraska', 'Nebraska']",117,+4.64,98,3.6,,,,,,,,,,,,,2020-11-25 08:34:57.970207
+"['Nebraska Omaha', 'Omaha', 'Omaha']",183,-2.51,187,-1.2,,,,,,,,,,,,,2020-11-25 08:34:57.970242
+"['Nevada', 'Nevada', 'Nevada']",120,+4.39,130,1.7,,,,,,,,,,,,,2020-11-25 08:34:57.970209
+"['New Hampshire', 'New Hampshire', 'New Hampshire']",201,-3.45,207,-2.0,,,,,,,,,,,,,2020-11-25 08:34:57.970251
+"['New Mexico', 'New Mexico', 'New Mexico']",217,-5.13,204,-1.8,,,,,,,,,,,,,2020-11-25 08:34:57.970259
+"['New Mexico St.', 'New Mexico State', 'New Mexico State']",103,+6.49,95,3.8,,,,,,,,,,,,,2020-11-25 08:34:57.970200
+"['New Orleans', 'New Orleans', 'New Orleans']",313,-11.65,247,-3.4,,,,,,,,,,,,,2020-11-25 08:34:57.970309
+"['Niagara', 'Niagara', 'Niagara']",252,-7.54,206,-1.9,,,,,,,,,,,,,2020-11-25 08:34:57.970277
+"['Nicholls St.', 'Nicholls', 'Nicholls State']",241,-7.08,164,-0.3,,,,,,,,,,,,,2020-11-25 08:34:57.970271
+"['Norfolk St.', 'Norfolk State', 'Norfolk State']",233,-6.28,194,-1.4,,,,,,,,,,,,,2020-11-25 08:34:57.970267
+"['North Alabama', 'North Alabama', 'North Alabama']",243,-7.11,192,-1.4,,,,,,,,,,,,,2020-11-25 08:34:57.970273
+"['North Carolina', 'North Carolina', 'North Carolina']",22,+19.73,18,9.1,,,,,,,,,,,,,2020-11-25 08:34:57.970158
+"['North Carolina A&T', 'North Carolina A&T', 'North Carolina A&T']",298,-10.64,214,-2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970301
+"['North Carolina Central', 'North Carolina Central', 'North Carolina Central']",299,-10.66,304,-5.8,,,,,,,,,,,,,2020-11-25 08:34:57.970302
+"['North Dakota', 'North Dakota', 'North Dakota']",247,-7.28,311,-6.5,,,,,,,,,,,,,2020-11-25 08:34:57.970275
+"['North Dakota St.', 'North Dakota State', 'North Dakota State']",175,-1.69,294,-5.2,,,,,,,,,,,,,2020-11-25 08:34:57.970238
+"['North Florida', 'North Florida', 'North Florida']",283,-9.53,229,-2.8,,,,,,,,,,,,,2020-11-25 08:34:57.970293
+"['North Texas', 'North Texas', 'North Texas']",104,+6.41,92,3.9,,,,,,,,,,,,,2020-11-25 08:34:57.970200
+"['Northeastern', 'Northeastern', 'Northeastern']",170,-1.30,295,-5.3,,,,,,,,,,,,,2020-11-25 08:34:57.970235
+"['Northern Arizona', 'Northern Arizona', 'Northern Arizona']",305,-11.19,196,-1.6,,,,,,,,,,,,,2020-11-25 08:34:57.970305
+"['Northern Colorado', 'Northern Colorado', 'Northern Colorado']",181,-2.40,230,-2.8,,,,,,,,,,,,,2020-11-25 08:34:57.970241
+"['Northern Illinois', 'Northern Illinois', 'Northern Illinois']",214,-5.02,224,-2.6,,,,,,,,,,,,,2020-11-25 08:34:57.970258
+"['Northern Iowa', 'Northern Iowa', 'Northern Iowa']",76,+10.82,76,4.9,,,,,,,,,,,,,2020-11-25 08:34:57.970186
+"['Northern Kentucky', 'Northern Kentucky', 'Northern Kentucky']",199,-3.35,235,-2.9,,,,,,,,,,,,,2020-11-25 08:34:57.970250
+"['Northwestern', 'Northwestern', 'Northwestern']",70,+11.81,84,4.3,,,,,,,,,,,,,2020-11-25 08:34:57.970183
+"['Northwestern St.', 'Northwestern State', 'Northwestern State']",269,-8.54,267,-4.1,,,,,,,,,,,,,2020-11-25 08:34:57.970286
+"['Notre Dame', 'Notre Dame', 'Notre Dame']",80,+10.09,56,6.2,,,,,,,,,,,,,2020-11-25 08:34:57.970188
+"['Oakland', 'Oakland', 'Oakland']",273,-8.66,299,-5.5,,,,,,,,,,,,,2020-11-25 08:34:57.970288
+"['Ohio', 'Ohio', 'Ohio']",131,+3.19,129,1.9,,,,,,,,,,,,,2020-11-25 08:34:57.970215
+"['Ohio St.', 'Ohio State', 'Ohio State']",10,+21.80,23,8.6,,,,,,,,,,,,,2020-11-25 08:34:57.970151
+"['Oklahoma', 'Oklahoma', 'Oklahoma']",33,+18.00,21,8.7,,,,,,,,,,,,,2020-11-25 08:34:57.970163
+"['Oklahoma St.', 'Oklahoma State', 'Oklahoma State']",35,+17.78,93,3.9,,,,,,,,,,,,,2020-11-25 08:34:57.970164
+"['Old Dominion', 'Old Dominion', 'Old Dominion']",101,+7.03,141,1.0,,,,,,,,,,,,,2020-11-25 08:34:57.970199
+"['Oral Roberts', 'Oral Roberts', 'Oral Roberts']",204,-3.62,202,-1.7,,,,,,,,,,,,,2020-11-25 08:34:57.970253
+"['Oregon', 'Oregon', 'Oregon']",20,+19.94,19,8.9,,,,,,,,,,,,,2020-11-25 08:34:57.970157
+"['Oregon St.', 'Oregon State', 'Oregon State']",111,+5.45,105,3.2,,,,,,,,,,,,,2020-11-25 08:34:57.970204
+"['Pacific', 'Pacific', 'Pacific']",122,+3.90,237,-3.0,,,,,,,,,,,,,2020-11-25 08:34:57.970210
+"['Penn', 'Pennsylvania']",197,-3.27,,,,,,,,,,,,,,,2020-11-25 08:34:57.970249
+"['Penn St.', 'Penn State', 'Penn State']",64,+13.60,48,6.6,,,,,,,,,,,,,2020-11-25 08:34:57.970180
+"['Pepperdine', 'Pepperdine', 'Pepperdine']",106,+6.03,65,5.5,,,,,,,,,,,,,2020-11-25 08:34:57.970201
+"['Pittsburgh', 'Pittsburgh', 'Pittsburgh']",84,+9.92,64,5.6,,,,,,,,,,,,,2020-11-25 08:34:57.970190
+"['Portland', 'Portland', 'Portland']",274,-8.78,284,-4.9,,,,,,,,,,,,,2020-11-25 08:34:57.970289
+"['Portland St.', 'Portland State', 'Portland State']",296,-10.49,287,-5.0,,,,,,,,,,,,,2020-11-25 08:34:57.970300
+"['Prairie View A&M', 'Prairie View A&M', 'Prairie View']",319,-12.37,245,-3.3,,,,,,,,,,,,,2020-11-25 08:34:57.970312
+"['Presbyterian', 'Presbyterian', 'Presbyterian']",342,-18.57,341,-10.9,,,,,,,,,,,,,2020-11-25 08:34:57.970324
+"['Princeton', 'Princeton']",140,+1.89,,,,,,,,,,,,,,,2020-11-25 08:34:57.970219
+"['Providence', 'Providence', 'Providence']",56,+14.84,34,7.3,,,,,,,,,,,,,2020-11-25 08:34:57.970175
+"['Purdue', 'Purdue', 'Purdue']",25,+19.06,42,6.8,,,,,,,,,,,,,2020-11-25 08:34:57.970159
+"['Purdue Fort Wayne', 'Purdue Fort Wayne', 'Purdue-Fort Wayne']",210,-4.03,199,-1.7,,,,,,,,,,,,,2020-11-25 08:34:57.970256
+"['Quinnipiac', 'Quinnipiac', 'Quinnipiac']",278,-9.13,292,-5.2,,,,,,,,,,,,,2020-11-25 08:34:57.970291
+"['Radford', 'Radford', 'Radford']",309,-11.29,338,-9.3,,,,,,,,,,,,,2020-11-25 08:34:57.970307
+"['Rhode Island', 'Rhode Island', 'Rhode Island']",100,+7.07,100,3.4,,,,,,,,,,,,,2020-11-25 08:34:57.970198
+"['Rice', 'Rice', 'Rice']",258,-7.87,266,-4.1,,,,,,,,,,,,,2020-11-25 08:34:57.970280
+"['Richmond', 'Richmond', 'Richmond']",63,+13.87,27,8.1,,,,,,,,,,,,,2020-11-25 08:34:57.970179
+"['Rider', 'Rider', 'Rider']",286,-9.96,262,-3.8,,,,,,,,,,,,,2020-11-25 08:34:57.970295
+"['Robert Morris', 'Robert Morris', 'Robert Morris']",228,-5.92,190,-1.3,,,,,,,,,,,,,2020-11-25 08:34:57.970265
+"['Rutgers', 'Rutgers', 'Rutgers']",27,+18.73,46,6.7,,,,,,,,,,,,,2020-11-25 08:34:57.970160
+"['SIU Edwardsville', 'SIU Edwardsville', 'SIU Edwardsville']",340,-17.39,322,-7.1,,,,,,,,,,,,,2020-11-25 08:34:57.970323
+"['SMU', 'SMU', 'Southern Methodist']",58,+14.40,57,6.1,,,,,,,,,,,,,2020-11-25 08:34:57.970176
+"['Sacramento St.', 'Sacramento State', 'Sacramento State']",229,-6.01,268,-4.1,,,,,,,,,,,,,2020-11-25 08:34:57.970265
+"['Sacred Heart', 'Sacred Heart', 'Sacred Heart']",325,-13.34,290,-5.1,,,,,,,,,,,,,2020-11-25 08:34:57.970315
+"[""Saint Joseph's"", ""Saint Joseph's"", ""Saint Joseph's""]",161,-0.62,278,-4.5,,,,,,,,,,,,,2020-11-25 08:34:57.970230
+"['Saint Louis', 'Saint Louis', 'Saint Louis']",45,+15.72,75,4.9,,,,,,,,,,,,,2020-11-25 08:34:57.970170
+"[""Saint Mary's"", ""Saint Mary's"", ""Saint Mary's (CA)""]",74,+11.20,94,3.8,,,,,,,,,,,,,2020-11-25 08:34:57.970185
+"[""Saint Peter's"", ""Saint Peter's"", ""Saint Peter's""]",186,-2.78,305,-5.8,,,,,,,,,,,,,2020-11-25 08:34:57.970243
+"['Sam Houston St.', 'Sam Houston State', 'Sam Houston State']",291,-10.12,316,-6.7,,,,,,,,,,,,,2020-11-25 08:34:57.970298
+"['Samford', 'Samford', 'Samford']",306,-11.22,250,-3.4,,,,,,,,,,,,,2020-11-25 08:34:57.970305
+"['San Diego', 'San Diego', 'San Diego']",152,+0.60,138,1.1,,,,,,,,,,,,,2020-11-25 08:34:57.970225
+"['San Diego St.', 'San Diego State', 'San Diego State']",44,+15.84,30,7.9,,,,,,,,,,,,,2020-11-25 08:34:57.970169
+"['San Francisco', 'San Francisco', 'San Francisco']",83,+9.95,127,2.0,,,,,,,,,,,,,2020-11-25 08:34:57.970190
+"['San Jose St.', 'San José State', 'San Jose State']",264,-8.26,297,-5.3,,,,,,,,,,,,,2020-11-25 08:34:57.970283
+"['Santa Clara', 'Santa Clara', 'Santa Clara']",107,+5.98,89,4.0,,,,,,,,,,,,,2020-11-25 08:34:57.970202
+"['Seattle', 'Seattle U', 'Seattle']",320,-12.65,261,-3.8,,,,,,,,,,,,,2020-11-25 08:34:57.970312
+"['Seton Hall', 'Seton Hall', 'Seton Hall']",50,+15.12,28,8.0,,,,,,,,,,,,,2020-11-25 08:34:57.970172
+"['Siena', 'Siena', 'Siena']",138,+2.10,137,1.2,,,,,,,,,,,,,2020-11-25 08:34:57.970218
+"['South Alabama', 'South Alabama', 'South Alabama']",207,-3.87,159,0.1,,,,,,,,,,,,,2020-11-25 08:34:57.970254
+"['South Carolina', 'South Carolina', 'South Carolina']",61,+14.02,62,6.0,,,,,,,,,,,,,2020-11-25 08:34:57.970178
+"['South Carolina St.', 'South Carolina State', 'South Carolina State']",355,-25.61,342,-11.0,,,,,,,,,,,,,2020-11-25 08:34:57.970331
+"['South Dakota', 'South Dakota', 'South Dakota']",208,-3.88,326,-7.4,,,,,,,,,,,,,2020-11-25 08:34:57.970255
+"['South Dakota St.', 'South Dakota State', 'South Dakota State']",98,+7.53,120,2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970197
+"['South Florida', 'South Florida', 'South Florida']",91,+8.53,79,4.6,,,,,,,,,,,,,2020-11-25 08:34:57.970194
+"['Southeast Missouri St.', 'Southeast Missouri State', 'Southeast Missouri State']",338,-16.95,302,-5.6,,,,,,,,,,,,,2020-11-25 08:34:57.970322
+"['Southeastern Louisiana', 'SE Louisiana', 'Southeastern Louisiana']",328,-14.38,282,-4.8,,,,,,,,,,,,,2020-11-25 08:34:57.970316
+"['Southern', 'Southern', 'Southern']",254,-7.63,246,-3.3,,,,,,,,,,,,,2020-11-25 08:34:57.970278
+"['Southern Illinois', 'Southern Illinois', 'Southern Illinois']",188,-2.79,293,-5.2,,,,,,,,,,,,,2020-11-25 08:34:57.970244
+"['Southern Miss', 'Southern Miss', 'Southern Mississippi']",277,-9.06,227,-2.7,,,,,,,,,,,,,2020-11-25 08:34:57.970290
+"['Southern Utah', 'Southern Utah', 'Southern Utah']",187,-2.79,146,0.8,,,,,,,,,,,,,2020-11-25 08:34:57.970244
+"['St. Bonaventure', 'St. Bonaventure', 'St. Bonaventure']",75,+11.05,83,4.3,,,,,,,,,,,,,2020-11-25 08:34:57.970186
+"['St. Francis NY', 'St. Francis (BKN)', 'St. Francis (NY)']",290,-10.11,243,-3.3,,,,,,,,,,,,,2020-11-25 08:34:57.970297
+"['St. Francis PA', 'St. Francis (PA)', 'Saint Francis (PA)']",237,-6.68,260,-3.7,,,,,,,,,,,,,2020-11-25 08:34:57.970269
+"[""St. John's"", ""St. John's"", ""St. John's (NY)""]",71,+11.36,43,6.8,,,,,,,,,,,,,2020-11-25 08:34:57.970183
+"['Stanford', 'Stanford', 'Stanford']",34,+17.78,67,5.4,,,,,,,,,,,,,2020-11-25 08:34:57.970164
+"['Stephen F. Austin', 'Stephen F. Austin', 'Stephen F. Austin']",149,+1.11,149,0.6,,,,,,,,,,,,,2020-11-25 08:34:57.970224
+"['Stetson', 'Stetson', 'Stetson']",232,-6.16,303,-5.6,,,,,,,,,,,,,2020-11-25 08:34:57.970267
+"['Stony Brook', 'Stony Brook', 'Stony Brook']",246,-7.27,213,-2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970274
+"['Syracuse', 'Syracuse', 'Syracuse']",31,+18.25,11,10.3,,,,,,,,,,,,,2020-11-25 08:34:57.970162
+"['TCU', 'TCU', 'Texas Christian']",53,+14.98,69,5.3,,,,,,,,,,,,,2020-11-25 08:34:57.970174
+"['Tarleton St.', 'Tarleton', 'Tarleton State']",334,-16.11,343,-11.4,,,,,,,,,,,,,2020-11-25 08:34:57.970320
+"['Temple', 'Temple', 'Temple']",147,+1.28,109,2.9,,,,,,,,,,,,,2020-11-25 08:34:57.970223
+"['Tennessee', 'Tennessee', 'Tennessee']",19,+19.98,12,10.1,,,,,,,,,,,,,2020-11-25 08:34:57.970156
+"['Tennessee Martin', 'UT Martin', 'Tennessee-Martin']",333,-15.81,333,-8.1,,,,,,,,,,,,,2020-11-25 08:34:57.970319
+"['Tennessee St.', 'Tennessee State', 'Tennessee State']",295,-10.39,277,-4.5,,,,,,,,,,,,,2020-11-25 08:34:57.970300
+"['Tennessee Tech', 'Tennessee Tech', 'Tennessee Tech']",314,-11.70,285,-4.9,,,,,,,,,,,,,2020-11-25 08:34:57.970309
+"['Texas', 'Texas', 'Texas']",9,+22.18,14,9.6,,,,,,,,,,,,,2020-11-25 08:34:57.970151
+"['Texas A&M', 'Texas A&M', 'Texas A&M']",68,+12.33,81,4.4,,,,,,,,,,,,,2020-11-25 08:34:57.970182
+"['Texas A&M Corpus Chris', 'Texas A&M-CC', 'Texas A&M-Corpus Christi']",312,-11.64,298,-5.4,,,,,,,,,,,,,2020-11-25 08:34:57.970308
+"['Texas Southern', 'Texas Southern', 'Texas Southern']",234,-6.41,184,-1.0,,,,,,,,,,,,,2020-11-25 08:34:57.970268
+"['Texas St.', 'Texas State', 'Texas State']",136,+2.24,234,-2.9,,,,,,,,,,,,,2020-11-25 08:34:57.970217
+"['Texas Tech', 'Texas Tech', 'Texas Tech']",6,+23.64,7,10.9,,,,,,,,,,,,,2020-11-25 08:34:57.970149
+"['The Citadel', 'The Citadel', 'Citadel']",329,-14.53,249,-3.4,,,,,,,,,,,,,2020-11-25 08:34:57.970317
+"['Toledo', 'Toledo', 'Toledo']",128,+3.52,152,0.4,,,,,,,,,,,,,2020-11-25 08:34:57.970213
+"['Towson', 'Towson', 'Towson']",202,-3.50,148,0.6,,,,,,,,,,,,,2020-11-25 08:34:57.970252
+"['Troy', 'Troy', 'Troy']",267,-8.48,263,-3.9,,,,,,,,,,,,,2020-11-25 08:34:57.970285
+"['Tulane', 'Tulane', 'Tulane']",227,-5.87,180,-0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970264
+"['Tulsa', 'Tulsa', 'Tulsa']",93,+8.03,114,2.6,,,,,,,,,,,,,2020-11-25 08:34:57.970195
+"['UAB', 'UAB', 'Alabama-Birmingham']",115,+4.88,101,3.3,,,,,,,,,,,,,2020-11-25 08:34:57.970206
+"['UC Davis', 'UC Davis', 'UC-Davis']",191,-2.88,209,-2.0,,,,,,,,,,,,,2020-11-25 08:34:57.970246
+"['UC Irvine', 'UC Irvine', 'UC-Irvine']",132,+2.78,155,0.2,,,,,,,,,,,,,2020-11-25 08:34:57.970215
+"['UC Riverside', 'UC Riverside', 'UC-Riverside']",215,-5.05,221,-2.5,,,,,,,,,,,,,2020-11-25 08:34:57.970258
+"['UC San Diego', 'UC San Diego', 'UC-San Diego']",190,-2.83,339,-9.9,,,,,,,,,,,,,2020-11-25 08:34:57.970245
+"['UC Santa Barbara', 'UC Santa Barbara', 'UC-Santa Barbara']",130,+3.23,191,-1.3,,,,,,,,,,,,,2020-11-25 08:34:57.970214
+"['UCF', 'UCF', 'Central Florida']",112,+5.39,110,2.9,,,,,,,,,,,,,2020-11-25 08:34:57.970205
+"['UCLA', 'UCLA', 'UCLA']",29,+18.38,40,6.9,,,,,,,,,,,,,2020-11-25 08:34:57.970161
+"['UMBC', 'UMBC', 'Maryland-Baltimore County']",236,-6.63,182,-0.9,,,,,,,,,,,,,2020-11-25 08:34:57.970269
+"['UMKC', 'UM Kansas City', 'Missouri-Kansas City']",280,-9.24,222,-2.5,,,,,,,,,,,,,2020-11-25 08:34:57.970292
+"['UMass Lowell', 'UMass Lowell', 'Massachusetts-Lowell']",235,-6.51,203,-1.8,,,,,,,,,,,,,2020-11-25 08:34:57.970268
+"['UNC Asheville', 'UNC Asheville', 'North Carolina-Asheville']",211,-4.24,176,-0.8,,,,,,,,,,,,,2020-11-25 08:34:57.970256
+"['UNC Greensboro', 'UNC Greensboro', 'North Carolina-Greensboro']",89,+8.77,78,4.8,,,,,,,,,,,,,2020-11-25 08:34:57.970193
+"['UNC Wilmington', 'UNC Wilmington', 'North Carolina-Wilmington']",250,-7.48,281,-4.7,,,,,,,,,,,,,2020-11-25 08:34:57.970276
+"['UNLV', 'UNLV', 'Nevada-Las Vegas']",119,+4.46,122,2.2,,,,,,,,,,,,,2020-11-25 08:34:57.970208
+"['USC', 'USC', 'Southern California']",48,+15.35,77,4.9,,,,,,,,,,,,,2020-11-25 08:34:57.970171
+"['USC Upstate', 'South Carolina Upstate', 'South Carolina Upstate']",271,-8.57,315,-6.6,,,,,,,,,,,,,2020-11-25 08:34:57.970287
+"['UT Arlington', 'UT Arlington', 'Texas-Arlington']",159,-0.34,223,-2.5,,,,,,,,,,,,,2020-11-25 08:34:57.970229
+"['UT Rio Grande Valley', 'UT Rio Grande Valley', 'Texas-Rio Grande Valley']",238,-6.69,255,-3.6,,,,,,,,,,,,,2020-11-25 08:34:57.970270
+"['UTEP', 'UTEP', 'Texas-El Paso']",196,-3.17,118,2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970248
+"['UTSA', 'UTSA', 'Texas-San Antonio']",142,+1.83,241,-3.2,,,,,,,,,,,,,2020-11-25 08:34:57.970220
+"['Utah', 'Utah', 'Utah']",52,+15.00,45,6.7,,,,,,,,,,,,,2020-11-25 08:34:57.970173
+"['Utah St.', 'Utah State', 'Utah State']",69,+12.26,90,4.0,,,,,,,,,,,,,2020-11-25 08:34:57.970182
+"['Utah Valley', 'Utah Valley', 'Utah Valley']",284,-9.79,318,-6.8,,,,,,,,,,,,,2020-11-25 08:34:57.970294
+"['VCU', 'VCU', 'Virginia Commonwealth']",90,+8.62,132,1.5,,,,,,,,,,,,,2020-11-25 08:34:57.970193
+"['VMI', 'VMI', 'VMI']",279,-9.15,306,-5.9,,,,,,,,,,,,,2020-11-25 08:34:57.970291
+"['Valparaiso', 'Valparaiso', 'Valparaiso']",148,+1.24,258,-3.7,,,,,,,,,,,,,2020-11-25 08:34:57.970223
+"['Vanderbilt', 'Vanderbilt', 'Vanderbilt']",125,+3.63,107,3.1,,,,,,,,,,,,,2020-11-25 08:34:57.970211
+"['Vermont', 'Vermont', 'Vermont']",92,+8.40,96,3.8,,,,,,,,,,,,,2020-11-25 08:34:57.970194
+"['Villanova', 'Villanova', 'Villanova']",4,+25.20,1,12.5,,,,,,,,,,,,,2020-11-25 08:34:57.970148
+"['Virginia', 'Virginia', 'Virginia']",16,+20.47,5,11.2,,,,,,,,,,,,,2020-11-25 08:34:57.970154
+"['Virginia Tech', 'Virginia Tech', 'Virginia Tech']",32,+18.17,33,7.4,,,,,,,,,,,,,2020-11-25 08:34:57.970163
+"['Wagner', 'Wagner', 'Wagner']",276,-8.99,271,-4.3,,,,,,,,,,,,,2020-11-25 08:34:57.970290
+"['Wake Forest', 'Wake Forest', 'Wake Forest']",127,+3.54,85,4.2,,,,,,,,,,,,,2020-11-25 08:34:57.970212
+"['Washington', 'Washington', 'Washington']",73,+11.24,82,4.4,,,,,,,,,,,,,2020-11-25 08:34:57.970185
+"['Washington St.', 'Washington State', 'Washington State']",137,+2.24,170,-0.6,,,,,,,,,,,,,2020-11-25 08:34:57.970218
+"['Weber St.', 'Weber State', 'Weber State']",292,-10.15,177,-0.8,,,,,,,,,,,,,2020-11-25 08:34:57.970298
+"['West Virginia', 'West Virginia', 'West Virginia']",8,+23.12,20,8.8,,,,,,,,,,,,,2020-11-25 08:34:57.970150
+"['Western Carolina', 'Western Carolina', 'Western Carolina']",203,-3.53,135,1.3,,,,,,,,,,,,,2020-11-25 08:34:57.970252
+"['Western Illinois', 'Western Illinois', 'Western Illinois']",344,-19.68,324,-7.2,,,,,,,,,,,,,2020-11-25 08:34:57.970325
+"['Western Kentucky', 'Western Kentucky', 'Western Kentucky']",79,+10.22,49,6.6,,,,,,,,,,,,,2020-11-25 08:34:57.970188
+"['Western Michigan', 'Western Michigan', 'Western Michigan']",251,-7.53,195,-1.5,,,,,,,,,,,,,2020-11-25 08:34:57.970277
+"['Wichita St.', 'Wichita State', 'Wichita State']",97,+7.59,119,2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970197
+"['William & Mary', 'William & Mary', 'William & Mary']",287,-9.97,330,-7.7,,,,,,,,,,,,,2020-11-25 08:34:57.970295
+"['Winthrop', 'Winthrop', 'Winthrop']",133,+2.64,117,2.4,,,,,,,,,,,,,2020-11-25 08:34:57.970216
+"['Wisconsin', 'Wisconsin', 'Wisconsin']",7,+23.55,13,9.6,,,,,,,,,,,,,2020-11-25 08:34:57.970150
+"['Wofford', 'Wofford', 'Wofford']",141,+1.83,160,0.0,,,,,,,,,,,,,2020-11-25 08:34:57.970220
+"['Wright St.', 'Wright State', 'Wright State']",113,+5.34,147,0.7,,,,,,,,,,,,,2020-11-25 08:34:57.970205
+"['Wyoming', 'Wyoming', 'Wyoming']",180,-2.35,323,-7.1,,,,,,,,,,,,,2020-11-25 08:34:57.970240
+"['Xavier', 'Xavier', 'Xavier']",65,+13.54,37,7.0,,,,,,,,,,,,,2020-11-25 08:34:57.970180
+"['Yale', 'Yale']",102,+6.85,,,,,,,,,,,,,,,2020-11-25 08:34:57.970199
+"['Youngstown St.', 'Youngstown State', 'Youngstown State']",179,-2.34,215,-2.3,,,,,,,,,,,,,2020-11-25 08:34:57.970240
