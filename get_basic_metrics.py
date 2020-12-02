@@ -130,7 +130,7 @@ def add_sports_ref(teams_dict, SRS):
     srs_table = soup_srs.find("table", {"id": "ratings"})
 
     for x in srs_table.find("tbody").findAll("tr"):
-        if x.find("a") == None or x.findAll("td")[13] == None:
+        if x.find("a") == None:
             pass
         else:
             team = x.find("a").text
@@ -227,7 +227,7 @@ def add_advanced(teams_dict):
     opps = opp_ratings_table.find("tbody").findAll("tr")
 
     for x in teams:
-        if x.find("a") == None or x.findAll("td")[16] == None:
+        if x.find("a") == None:
             pass
         else:
             team = x.find('a').text
@@ -400,8 +400,8 @@ def get_teams():
     SRS = "https://www.sports-reference.com/cbb/seasons/2021-ratings.html"
 
     add_ken_pom(teams, KP)
-    add_BPI(teams, BP)
     add_sports_ref(teams, SRS)
+    add_BPI(teams, BP)
     add_advanced(teams)
 
     teams = formatting(teams)
