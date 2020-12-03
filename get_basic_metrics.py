@@ -405,6 +405,11 @@ def get_teams():
     add_advanced(teams)
 
     teams = formatting(teams)
+    print(len(teams))
+    for x in teams:
+        if len(x['Team']) < 3:
+            teams.remove(x)
+    print(len(teams))
     # for team in teams:
     #     print(team)
     # return teams

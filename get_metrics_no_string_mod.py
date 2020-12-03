@@ -167,7 +167,7 @@ def get_teams():
     final = kp_arr + bpi_arr + srs_arr + srs_adv_arr
     df = pd.DataFrame(final, columns=['teamID', 'metric', 'value', 'date'])
     # print(df)
-    df.to_csv("12-2.csv", index=False)
+    df.to_csv("12-3.csv", index=False)
 
 
 get_teams()
