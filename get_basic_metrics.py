@@ -231,10 +231,10 @@ def add_advanced(teams_dict):
             pass
         else:
             team = x.find('a').text
-            pace = x.findAll('td')[16].text
-            Three_Par = x.findAll('td')[19].text
-            TS = x.findAll('td')[20].text
-            Tov = x.findAll('td')[26].text
+            pace = x.findAll('td')[20].text
+            Three_Par = x.findAll('td')[23].text
+            TS = x.findAll('td')[24].text
+            Tov = x.findAll('td')[30].text
             if "Savannah St" in team:
                 continue
             # if "Merrimack" in team:
@@ -307,10 +307,10 @@ def add_advanced(teams_dict):
             pass
         else:
             team = x.find('a').text
-            pace = x.findAll('td')[16].text
-            Three_Par = x.findAll('td')[19].text
-            TS = x.findAll('td')[20].text
-            Tov = x.findAll('td')[26].text
+            pace = x.findAll('td')[20].text
+            Three_Par = x.findAll('td')[23].text
+            TS = x.findAll('td')[24].text
+            Tov = x.findAll('td')[30].text
 
             if "Savannah St" in team:
                 continue

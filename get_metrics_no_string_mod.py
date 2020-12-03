@@ -71,6 +71,7 @@ def add_sports_ref(SRS, date, tf):
         else:
             team = x.find("a").text
             srs_val = x.findAll("td")[14].text
+            sos_val = x.findAll("td")[10].text
             o_eff = x.findAll("td")[15].text
             d_eff = x.findAll("td")[16].text
             ppg = x.findAll("td")[6].text
@@ -79,6 +80,7 @@ def add_sports_ref(SRS, date, tf):
             if team in tf['sr_name'].unique():
                 teamID = tf[tf['sr_name'] == team]['id'].values[0]
                 srs_array.append((teamID, "SRS", srs_val, date))
+                srs_array.append((teamID, "SOS", sos_val, date))
                 srs_array.append((teamID, "O_Efficiency", o_eff, date))
                 srs_array.append((teamID, "D_Efficiency", d_eff, date))
                 srs_array.append((teamID, "PPG", ppg, date))
@@ -105,16 +107,16 @@ def add_advanced(date, tf):
     opp_soup_ratings = BeautifulSoup(opp_ratings.content, 'lxml')
     opp_ratings_table = opp_soup_ratings.find("table", {"id": "adv_opp_stats"})
     opps = opp_ratings_table.find("tbody").findAll("tr")
-
+    
     for x in teams:
         if x.find("a") == None or x.findAll("td")[16] == None:
             pass
         else:
             team = x.find('a').text
-            pace = x.findAll('td')[16].text
-            Three_Par = x.findAll('td')[19].text
-            TS = x.findAll('td')[20].text
-            Tov = x.findAll('td')[26].text
+            pace = x.findAll('td')[20].text
+            Three_Par = x.findAll('td')[23].text
+            TS = x.findAll('td')[24].text
+            Tov = x.findAll('td')[30].text
 
             if team in tf['sr_name'].unique():
                 teamID = tf[tf['sr_name'] == team]['id'].values[0]
@@ -126,15 +128,14 @@ def add_advanced(date, tf):
             else:
                 raise ValueError(
                     str(team) + ' doesnt match the Sports Ref names')
-    for x in opps:
+    # for x in opps:
         if x.find("a") == None or x.findAll("td")[16] == None:
             pass
         else:
             team = x.find('a').text
-            pace = x.findAll('td')[16].text
-            Three_Par = x.findAll('td')[19].text
-            TS = x.findAll('td')[20].text
-            Tov = x.findAll('td')[26].text
+            Three_Par = x.findAll('td')[23].text
+            TS = x.findAll('td')[24].text
+            Tov = x.findAll('td')[30].text
 
             if team in tf['sr_name'].unique():
                 teamID = tf[tf['sr_name'] == team]['id'].values[0]
