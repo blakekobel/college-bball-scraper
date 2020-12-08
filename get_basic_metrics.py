@@ -414,7 +414,7 @@ def get_teams():
     #     print(team)
     # return teams
     df = pd.DataFrame(teams)
-    df.to_csv("11-25.csv", index=False)
+    df.to_csv("11-20.csv", index=False)
 
 
 get_teams()

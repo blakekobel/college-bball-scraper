@@ -6,6 +6,7 @@ import requests
 import operator
 import datetime
 import pandas as pd
+import db_helper
 
 
 def add_ken_pom(KP, date, tf):
@@ -152,6 +153,9 @@ def add_advanced(date, tf):
 
 def get_teams():
     dt = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    # db = db_helper.Db_Helper()
+    # teams = db.get_teams()
+    # tf = pd.DataFrame(teams, columns=['id','kenpom_name','sr_name','bpi_name','extra_name1','extra_name2','extra_name3'])
     tf = pd.read_csv("teams_table.csv")
     KP = 'https://kenpom.com/'
     BP = []
@@ -166,9 +170,12 @@ def get_teams():
     srs_adv_arr = add_advanced(dt, tf)
 
     final = kp_arr + bpi_arr + srs_arr + srs_adv_arr
-    df = pd.DataFrame(final, columns=['teamID', 'metric', 'value', 'date'])
-    # print(df)
-    df.to_csv("12-3.csv", index=False)
+    print(final)
+    for stat in final:
+        print(stat[0],stat[1],stat[2],stat[3])
+    # df = pd.DataFrame(final, columns=['teamID', 'metric', 'value', 'date'])
+    # # print(df)
+    # df.to_csv("12-3.csv", index=False)
 
 
 get_teams()
