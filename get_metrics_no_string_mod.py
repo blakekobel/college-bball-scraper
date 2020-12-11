@@ -22,6 +22,11 @@ def add_ken_pom(KP, date, tf):
             pass
         else:
             team = x.find("a").text
+            if "-" in team or "(" in team or ")" in team or "." in team:
+                team = team.replace("-", " ")
+                team = team.replace("(", "")
+                team = team.replace(")", "")
+                team = team.replace(".", "")
             #rank = int(x.find("td").text)
             val = x.findAll("td")[4].text
             if team in tf['kenpom_name'].unique():
@@ -48,6 +53,11 @@ def add_BPI(BP, date, tf):
                 pass
             else:
                 team = x.find("span", {"class": "team-names"}).text
+                if "-" in team or "(" in team or ")" in team or "." in team:
+                    team = team.replace("-", " ")
+                    team = team.replace("(", "")
+                    team = team.replace(")", "")
+                    team = team.replace(".", "")
                 rank = x.findAll("td")[0].text
                 val = x.findAll("td")[6].text
                 if team in tf['bpi_name'].unique():
@@ -71,6 +81,11 @@ def add_sports_ref(SRS, date, tf):
             pass
         else:
             team = x.find("a").text
+            if "-" in team or "(" in team or ")" in team or "." in team:
+                team = team.replace("-", " ")
+                team = team.replace("(", "")
+                team = team.replace(")", "")
+                team = team.replace(".", "")
             srs_val = x.findAll("td")[14].text
             sos_val = x.findAll("td")[10].text
             o_eff = x.findAll("td")[15].text
@@ -114,6 +129,11 @@ def add_advanced(date, tf):
             pass
         else:
             team = x.find('a').text
+            if "-" in team or "(" in team or ")" in team or "." in team:
+                team = team.replace("-", " ")
+                team = team.replace("(", "")
+                team = team.replace(")", "")
+                team = team.replace(".", "")
             pace = x.findAll('td')[20].text
             Three_Par = x.findAll('td')[23].text
             TS = x.findAll('td')[24].text
@@ -129,11 +149,16 @@ def add_advanced(date, tf):
             else:
                 raise ValueError(
                     str(team) + ' doesnt match the Sports Ref names')
-    # for x in opps:
+    for x in opps:
         if x.find("a") == None or x.findAll("td")[16] == None:
             pass
         else:
             team = x.find('a').text
+            if "-" in team or "(" in team or ")" in team or "." in team:
+                team = team.replace("-", " ")
+                team = team.replace("(", "")
+                team = team.replace(")", "")
+                team = team.replace(".", "")
             Three_Par = x.findAll('td')[23].text
             TS = x.findAll('td')[24].text
             Tov = x.findAll('td')[30].text
@@ -156,7 +181,7 @@ def get_teams():
     # db = db_helper.Db_Helper()
     # teams = db.get_teams()
     # tf = pd.DataFrame(teams, columns=['id','kenpom_name','sr_name','bpi_name','extra_name1','extra_name2','extra_name3'])
-    tf = pd.read_csv("teams_table.csv")
+    tf = pd.read_csv("teams_table no punc.csv")
     KP = 'https://kenpom.com/'
     BP = []
     for x in range(1, 16):
@@ -170,12 +195,12 @@ def get_teams():
     srs_adv_arr = add_advanced(dt, tf)
 
     final = kp_arr + bpi_arr + srs_arr + srs_adv_arr
-    print(final)
-    for stat in final:
-        print(stat[0],stat[1],stat[2],stat[3])
-    # df = pd.DataFrame(final, columns=['teamID', 'metric', 'value', 'date'])
-    # # print(df)
-    # df.to_csv("12-3.csv", index=False)
+    # print(final)
+    # for stat in final:
+    #     print(stat[0],stat[1],stat[2],stat[3])
+    df = pd.DataFrame(final, columns=['teamID', 'metric', 'value', 'date'])
+    # print(df)
+    df.to_csv("12-3.csv", index=False)
 
 
 get_teams()
