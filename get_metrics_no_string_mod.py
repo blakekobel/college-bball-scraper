@@ -30,7 +30,7 @@ def add_ken_pom(KP, date, tf):
             #rank = int(x.find("td").text)
             val = x.findAll("td")[4].text
             if team in tf['kenpom_name'].unique():
-                teamID = tf[tf['kenpom_name'] == team]['id'].values[0]
+                teamID = tf[tf['kenpom_name'] == team]['teamID'].values[0]
                 kp_array.append((teamID, "KenPom", val, date))
             else:
                 raise ValueError(str(team) + ' doesnt match the kenpom names')
@@ -53,15 +53,16 @@ def add_BPI(BP, date, tf):
                 pass
             else:
                 team = x.find("span", {"class": "team-names"}).text
-                if "-" in team or "(" in team or ")" in team or "." in team:
+                if "-" in team or "(" in team or ")" in team or "." in team or "é" in team:
                     team = team.replace("-", " ")
                     team = team.replace("(", "")
                     team = team.replace(")", "")
                     team = team.replace(".", "")
+                    team = team.replace("é", "e")
                 rank = x.findAll("td")[0].text
                 val = x.findAll("td")[6].text
                 if team in tf['bpi_name'].unique():
-                    teamID = tf[tf['bpi_name'] == team]['id'].values[0]
+                    teamID = tf[tf['bpi_name'] == team]['teamID'].values[0]
                     bpi_array.append((teamID, "BPI", val, date))
                 else:
                     raise ValueError(str(team) + ' doesnt match the bpi names')
@@ -94,7 +95,7 @@ def add_sports_ref(SRS, date, tf):
             papg = x.findAll("td")[7].text
 
             if team in tf['sr_name'].unique():
-                teamID = tf[tf['sr_name'] == team]['id'].values[0]
+                teamID = tf[tf['sr_name'] == team]['teamID'].values[0]
                 srs_array.append((teamID, "SRS", srs_val, date))
                 srs_array.append((teamID, "SOS", sos_val, date))
                 srs_array.append((teamID, "O_Efficiency", o_eff, date))
@@ -140,7 +141,7 @@ def add_advanced(date, tf):
             Tov = x.findAll('td')[30].text
 
             if team in tf['sr_name'].unique():
-                teamID = tf[tf['sr_name'] == team]['id'].values[0]
+                teamID = tf[tf['sr_name'] == team]['teamID'].values[0]
                 srs_adv_array.append((teamID, "Pace", pace, date))
                 srs_adv_array.append(
                     (teamID, "Three_Point_Attempt_Rate", Three_Par, date))
@@ -164,7 +165,7 @@ def add_advanced(date, tf):
             Tov = x.findAll('td')[30].text
 
             if team in tf['sr_name'].unique():
-                teamID = tf[tf['sr_name'] == team]['id'].values[0]
+                teamID = tf[tf['sr_name'] == team]['teamID'].values[0]
                 srs_adv_array.append(
                     (teamID, "Opp_Three_Point_Attempt_Rate", Three_Par, date))
                 srs_adv_array.append((teamID, "Opp_True_Shooting", TS, date))

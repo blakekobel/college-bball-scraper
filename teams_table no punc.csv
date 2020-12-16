@@ -30,11 +30,11 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 29,Bowling Green,Bowling Green State,Bowling Green,NULL,Bowling Green Falcons,NULL
 30,Bradley,Bradley,Bradley,NULL,Bradley Braves,NULL
 31,Brown,Brown,Brown,NULL,Brown Bears,NULL
-32,Bryant,Bryant,Bryant,NULL,Bryant University Bulldogs,NULL
+32,Bryant,Bryant,Bryant,NULL,Bryant Bulldogs,NULL
 33,Bucknell,Bucknell,Bucknell,NULL,Bucknell Bison,NULL
 34,Buffalo,Buffalo,Buffalo,NULL,Buffalo Bulls,NULL
 35,Butler,Butler,Butler,NULL,Butler Bulldogs,NULL
-36,Cal Baptist,California Baptist,California Baptist,NULL,California Baptist Lancers,NULL
+36,Cal Baptist,California Baptist,California Baptist,NULL,Cal Baptist Lancers,NULL
 37,Cal Poly,Cal Poly,Cal Poly,NULL,Cal Poly Mustangs,NULL
 38,Cal St Bakersfield,Cal State Bakersfield,CSU Bakersfield,NULL,Cal St Bakersfield Roadrunners,NULL
 39,Cal St Fullerton,Cal State Fullerton,CSU Fullerton,NULL,Cal St Fullerton Titans,NULL
@@ -42,7 +42,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 41,California,University of California,California,NULL,California Golden Bears,NULL
 42,Campbell,Campbell,Campbell,NULL,Campbell Fighting Camels,NULL
 43,Canisius,Canisius,Canisius,NULL,Canisius Golden Griffins,NULL
-44,Central Arkansas,Central Arkansas,Central Arkansas,NULL,Cent Arkansas Bears,NULL
+44,Central Arkansas,Central Arkansas,Central Arkansas,NULL,Central Arkansas Bears,NULL
 45,Central Connecticut,Central Connecticut State,Central Connecticut,NULL,Central Connecticut St Blue Devils,NULL
 46,Central Michigan,Central Michigan,Central Michigan,NULL,Central Michigan Chippewas,NULL
 47,Charleston,College of Charleston,Charleston,NULL,College of Charleston Cougars,NULL
@@ -82,8 +82,8 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 81,Eastern Michigan,Eastern Michigan,Eastern Michigan,NULL,Eastern Michigan Eagles,NULL
 82,Eastern Washington,Eastern Washington,Eastern Washington,NULL,Eastern Washington Eagles,NULL
 83,Elon,Elon,Elon,NULL,Elon Phoenix,NULL
-84,Evansville,Evansville,Evansville,NULL,Evansville Aces,NULL
-85,FIU,Florida International,Florida International,NULL,Florida International Panthers,NULL
+84,Evansville,Evansville,Evansville,NULL,Evansville Purple Aces,NULL
+85,FIU,Florida International,Florida International,NULL,Florida Int'l Golden Panthers,NULL
 86,Fairfield,Fairfield,Fairfield,NULL,Fairfield Stags,NULL
 87,Fairleigh Dickinson,Fairleigh Dickinson,Fairleigh Dickinson,NULL,Fairleigh Dickinson Knights,NULL
 88,Florida,Florida,Florida,NULL,Florida Gators,NULL
@@ -103,7 +103,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 102,Georgia St,Georgia State,Georgia State,NULL,Georgia St Panthers,NULL
 103,Georgia Tech,Georgia Tech,Georgia Tech,NULL,Georgia Tech Yellow Jackets,NULL
 104,Gonzaga,Gonzaga,Gonzaga,NULL,Gonzaga Bulldogs,NULL
-105,Grambling St,Grambling,Grambling,NULL,Grambling Tigers,NULL
+105,Grambling St,Grambling,Grambling,NULL,Grambling St Tigers,NULL
 106,Grand Canyon,Grand Canyon,Grand Canyon,NULL,Grand Canyon Antelopes,NULL
 107,Green Bay,Green Bay,Green Bay,NULL,Green Bay Phoenix,NULL
 108,Hampton,Hampton,Hampton,NULL,Hampton Pirates,NULL
@@ -127,7 +127,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 126,Indiana St,Indiana State,Indiana State,NULL,Indiana St Sycamores,NULL
 127,Iona,Iona,Iona,NULL,Iona Gaels,NULL
 128,Iowa,Iowa,Iowa,NULL,Iowa Hawkeyes,NULL
-129,Iowa St,Iowa State,Iowa State,NULL,Iowa St Cyclones,NULL
+129,Iowa St,Iowa State,Iowa State,NULL,Iowa State Cyclones,NULL
 130,Jackson St,Jackson State,Jackson State,NULL,Jackson St Tigers,NULL
 131,Jacksonville,Jacksonville,Jacksonville,NULL,Jacksonville Dolphins,NULL
 132,Jacksonville St,Jacksonville State,Jacksonville State,NULL,Jacksonville St Gamecocks,NULL
@@ -137,7 +137,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 136,Kennesaw St,Kennesaw State,Kennesaw State,NULL,Kennesaw St Owls,NULL
 137,Kent St,Kent State,Kent State,NULL,Kent St Golden Flashes,NULL
 138,Kentucky,Kentucky,Kentucky,NULL,Kentucky Wildcats,NULL
-139,LIU,Long Island University,Long Island University,NULL,LIU Sharks,NULL
+139,LIU,Long Island University,Long Island University,NULL,LIU Brooklyn Blackbirds,NULL
 140,LSU,Louisiana State,LSU,NULL,LSU Tigers,NULL
 141,La Salle,La Salle,La Salle,NULL,La Salle Explorers,NULL
 142,Lafayette,Lafayette,Lafayette,NULL,Lafayette Leopards,NULL
@@ -149,7 +149,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 148,Long Beach St,Cal State Long Beach,Long Beach State,NULL,Long Beach St 49ers,NULL
 149,Longwood,Longwood,Longwood,NULL,Longwood Lancers,NULL
 150,Louisiana,Louisiana,Louisiana,NULL,Louisiana Ragin' Cajuns,NULL
-151,Louisiana Monroe,Louisiana Monroe,UL Monroe,NULL,Louisiana Monroe Warhawks,NULL
+151,Louisiana Monroe,Louisiana Monroe,UL Monroe,NULL,UL Monroe Warhawks,NULL
 152,Louisiana Tech,Louisiana Tech,Louisiana Tech,NULL,Louisiana Tech Bulldogs,NULL
 153,Louisville,Louisville,Louisville,NULL,Louisville Cardinals,NULL
 154,Loyola Chicago,Loyola IL,Loyola Chicago,NULL,Loyola Chi Ramblers,NULL
@@ -167,11 +167,11 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 166,Memphis,Memphis,Memphis,NULL,Memphis Tigers,NULL
 167,Mercer,Mercer,Mercer,NULL,Mercer Bears,NULL
 168,Merrimack,Merrimack,Merrimack,NULL,Merrimack Warriors,NULL
-169,Miami FL,Miami FL,Miami,NULL,Miami Fla Hurricanes,NULL
+169,Miami FL,Miami FL,Miami,NULL,Miami Hurricanes,NULL
 170,Miami OH,Miami OH,Miami OH,NULL,Miami OH RedHawks,NULL
 171,Michigan,Michigan,Michigan,NULL,Michigan Wolverines,NULL
 172,Michigan St,Michigan State,Michigan State,NULL,Michigan St Spartans,NULL
-173,Middle Tennessee,Middle Tennessee,Middle Tennessee,NULL,Middle Tenn Blue Raiders,NULL
+173,Middle Tennessee,Middle Tennessee,Middle Tennessee,NULL,Middle Tennessee Blue Raiders,NULL
 174,Milwaukee,Milwaukee,Milwaukee,NULL,Wisconsin Milwaukee Panthers,NULL
 175,Minnesota,Minnesota,Minnesota,NULL,Minnesota Golden Gophers,NULL
 176,Mississippi,Mississippi,Ole Miss,NULL,Ole Miss Rebels,NULL
@@ -190,7 +190,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 189,NJIT,NJIT,NJIT,NULL,New Jersey Tech Highlanders,NULL
 190,Navy,Navy,Navy,NULL,Navy Midshipmen,NULL
 191,Nebraska,Nebraska,Nebraska,NULL,Nebraska Cornhuskers,NULL
-192,Nebraska Omaha,Omaha,Omaha,NULL,Nebraska Omaha Mavericks,NULL
+192,Nebraska Omaha,Omaha,Omaha,NULL,Omaha Mavericks,NULL
 193,Nevada,Nevada,Nevada,NULL,Nevada Wolf Pack,NULL
 194,New Hampshire,New Hampshire,New Hampshire,NULL,New Hamp Wildcats,NULL
 195,New Mexico,New Mexico,New Mexico,NULL,New Mexico Lobos,NULL
@@ -209,7 +209,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 208,North Texas,North Texas,North Texas,NULL,North Texas Mean Green,NULL
 209,Northeastern,Northeastern,Northeastern,NULL,Northeastern Huskies,NULL
 210,Northern Arizona,Northern Arizona,Northern Arizona,NULL,Northern Arizona Lumberjacks,NULL
-211,Northern Colorado,Northern Colorado,Northern Colorado,NULL,Northern Colorado Bears,NULL
+211,Northern Colorado,Northern Colorado,Northern Colorado,NULL,N Colorado Bears,NULL
 212,Northern Illinois,Northern Illinois,Northern Illinois,NULL,Northern Illinois Huskies,NULL
 213,Northern Iowa,Northern Iowa,Northern Iowa,NULL,Northern Iowa Panthers,NULL
 214,Northern Kentucky,Northern Kentucky,Northern Kentucky,NULL,Northern Kentucky Norse,NULL
@@ -218,7 +218,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 217,Notre Dame,Notre Dame,Notre Dame,NULL,Notre Dame Fighting Irish,NULL
 218,Oakland,Oakland,Oakland,NULL,Oakland Golden Grizzlies,NULL
 219,Ohio,Ohio,Ohio,NULL,Ohio Bobcats,NULL
-220,Ohio St,Ohio State,Ohio State,NULL,Ohio St Buckeyes,NULL
+220,Ohio St,Ohio State,Ohio State,NULL,Ohio State Buckeyes,NULL
 221,Oklahoma,Oklahoma,Oklahoma,NULL,Oklahoma Sooners,NULL
 222,Oklahoma St,Oklahoma State,Oklahoma State,NULL,Oklahoma St Cowboys,NULL
 223,Old Dominion,Old Dominion,Old Dominion,NULL,Old Dominion Monarchs,NULL
@@ -296,7 +296,7 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 295,Texas A&M,Texas A&M,Texas A&M,NULL,Texas A&M Aggies,NULL
 296,Texas A&M Corpus Chris,Texas A&M Corpus Christi,Texas A&M CC,NULL,Texas A&M CC Islanders,NULL
 297,Texas Southern,Texas Southern,Texas Southern,NULL,Texas Southern Tigers,NULL
-298,Texas St,Texas State,Texas State,NULL,Texas St San Marcos Bobcats,NULL
+298,Texas St,Texas State,Texas State,NULL,Texas State Bobcats,NULL
 299,Texas Tech,Texas Tech,Texas Tech,NULL,Texas Tech Red Raiders,NULL
 300,The Citadel,Citadel,The Citadel,NULL,The Citadel Bulldogs,NULL
 301,Toledo,Toledo,Toledo,NULL,Toledo Rockets,NULL
@@ -323,8 +323,8 @@ teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 322,USC Upstate,South Carolina Upstate,South Carolina Upstate,NULL,South Carolina Upstate Spartans,NULL
 323,UT Arlington,Texas Arlington,UT Arlington,NULL,Texas Arlington Mavericks,NULL
 324,UT Rio Grande Valley,Texas Rio Grande Valley,UT Rio Grande Valley,NULL,UTRGV Vaqueros,NULL
-325,UTEP,Texas El Paso,UTEP,NULL,Texas El Paso Miners,NULL
-326,UTSA,Texas San Antonio,UTSA,NULL,Texas San Antonio Roadrunners,NULL
+325,UTEP,Texas El Paso,UTEP,NULL,UTEP Miners,NULL
+326,UTSA,Texas San Antonio,UTSA,NULL,UTSA Roadrunners,NULL
 327,Utah,Utah,Utah,NULL,Utah Utes,NULL
 328,Utah St,Utah State,Utah State,NULL,Utah St Aggies,NULL
 329,Utah Valley,Utah Valley,Utah Valley,NULL,Utah Valley Wolverines,NULL
