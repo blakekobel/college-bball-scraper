@@ -17,8 +17,8 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 16,Army,Army,Army,NULL,Army West Point Black Knights,NULL
 17,Auburn,Auburn,Auburn,NULL,Auburn Tigers,NULL
 18,Austin Peay,Austin Peay,Austin Peay,NULL,Austin Peay Governors,NULL
-19,BYU,Brigham Young,BYU,NULL,Brigham Young Cougars,NULL
-20,Ball St.,Ball State,Ball State,NULL,Ball St Cardinals,NULL
+19,BYU,Brigham Young,BYU,NULL,BYU Cougars,NULL
+20,Ball St.,Ball State,Ball State,NULL,Ball State Cardinals,NULL
 21,Baylor,Baylor,Baylor,NULL,Baylor Bears,NULL
 22,Bellarmine,Bellarmine,Bellarmine,NULL,Bellarmine Knights,NULL
 23,Belmont,Belmont,Belmont,NULL,Belmont Bruins,NULL
@@ -45,7 +45,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 44,Central Arkansas,Central Arkansas,Central Arkansas,NULL,Central Arkansas Bears,NULL
 45,Central Connecticut,Central Connecticut State,Central Connecticut,NULL,Central Connecticut St Blue Devils,NULL
 46,Central Michigan,Central Michigan,Central Michigan,NULL,Central Michigan Chippewas,NULL
-47,Charleston,College of Charleston,Charleston,NULL,College of Charleston Cougars,NULL
+47,Charleston,College of Charleston,Charleston,NULL,Charleston Cougars,NULL
 48,Charleston Southern,Charleston Southern,Charleston Southern,NULL,Charleston Southern Buccaneers,NULL
 49,Charlotte,Charlotte,Charlotte,NULL,Charlotte 49ers,NULL
 50,Chattanooga,Chattanooga,Chattanooga,NULL,Chattanooga Mocs,NULL
@@ -69,7 +69,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 68,Delaware,Delaware,Delaware,NULL,Delaware Fightin' Blue Hens,NULL
 69,Delaware St.,Delaware State,Delaware State,NULL,Delaware St Hornets,NULL
 70,Denver,Denver,Denver,NULL,Denver Pioneers,NULL
-71,Detroit,Detroit Mercy,Detroit Mercy,NULL,Detroit Titans,NULL
+71,Detroit,Detroit Mercy,Detroit Mercy,NULL,Detroit Mercy Titans,NULL
 72,Dixie St.,Dixie State,Dixie State,NULL,Dixie St Trailblazers,NULL
 73,Drake,Drake,Drake,NULL,Drake Bulldogs,NULL
 74,Drexel,Drexel,Drexel,NULL,Drexel Dragons,NULL
@@ -186,7 +186,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 185,Morgan St.,Morgan State,Morgan State,NULL,Morgan St Bears,NULL
 186,Mount St. Mary's,Mount St. Mary's,Mount St. Mary's,NULL,Mount St Mary's Mountaineers,NULL
 187,Murray St.,Murray State,Murray State,NULL,Murray St Racers,NULL
-188,N.C. State,North Carolina State,NC State,NULL,NC St Wolfpack,NULL
+188,N.C. State,North Carolina State,NC State,NULL,NC State Wolfpack,NULL
 189,NJIT,NJIT,NJIT,NULL,New Jersey Tech Highlanders,NULL
 190,Navy,Navy,Navy,NULL,Navy Midshipmen,NULL
 191,Nebraska,Nebraska,Nebraska,NULL,Nebraska Cornhuskers,NULL
@@ -214,7 +214,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 213,Northern Iowa,Northern Iowa,Northern Iowa,NULL,Northern Iowa Panthers,NULL
 214,Northern Kentucky,Northern Kentucky,Northern Kentucky,NULL,Northern Kentucky Norse,NULL
 215,Northwestern,Northwestern,Northwestern,NULL,Northwestern Wildcats,NULL
-216,Northwestern St.,Northwestern State,Northwestern State,NULL,NW St Demons,NULL
+216,Northwestern St.,Northwestern State,Northwestern State,NULL,Northwestern St Demons,NULL
 217,Notre Dame,Notre Dame,Notre Dame,NULL,Notre Dame Fighting Irish,NULL
 218,Oakland,Oakland,Oakland,NULL,Oakland Golden Grizzlies,NULL
 219,Ohio,Ohio,Ohio,NULL,Ohio Bobcats,NULL
@@ -253,13 +253,13 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 252,Saint Joseph's,Saint Joseph's,Saint Joseph's,NULL,Saint Joseph's Hawks,NULL
 253,Saint Louis,Saint Louis,Saint Louis,NULL,Saint Louis Billikens,NULL
 254,Saint Mary's,Saint Mary's (CA),Saint Mary's,NULL,Saint Mary's Gaels,NULL
-255,Saint Peter's,Saint Peter's,Saint Peter's,NULL,St Peter's Peacocks,NULL
+255,Saint Peter's,Saint Peter's,Saint Peter's,NULL,Saint Peter's Peacocks,NULL
 256,Sam Houston St.,Sam Houston State,Sam Houston State,NULL,Sam Houston St Bearkats,NULL
 257,Samford,Samford,Samford,NULL,Samford Bulldogs,NULL
 258,San Diego,San Diego,San Diego,NULL,San Diego Toreros,NULL
 259,San Diego St.,San Diego State,San Diego State,NULL,San Diego St Aztecs,NULL
 260,San Francisco,San Francisco,San Francisco,NULL,San Francisco Dons,NULL
-261,San Jose St.,San Jose State,San José State,NULL,San Jose St Spartans,NULL
+261,San Jose St.,San Jose State,San José State,NULL,San José St Spartans,NULL
 262,Santa Clara,Santa Clara,Santa Clara,NULL,Santa Clara Broncos,NULL
 263,Seattle,Seattle,Seattle U,NULL,Seattle Redhawks,NULL
 264,Seton Hall,Seton Hall,Seton Hall,NULL,Seton Hall Pirates,NULL
@@ -289,7 +289,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 288,Tarleton St.,Tarleton State,Tarleton,NULL,Tarleton St Texans,NULL
 289,Temple,Temple,Temple,NULL,Temple Owls,NULL
 290,Tennessee,Tennessee,Tennessee,NULL,Tennessee Volunteers,NULL
-291,Tennessee Martin,Tennessee-Martin,UT Martin,NULL,UT Martin Skyhawks,NULL
+291,Tennessee Martin,Tennessee-Martin,UT Martin,NULL,Tenn Martin Skyhawks,NULL
 292,Tennessee St.,Tennessee State,Tennessee State,NULL,Tennessee St Tigers,NULL
 293,Tennessee Tech,Tennessee Tech,Tennessee Tech,NULL,Tennessee Tech Golden Eagles,NULL
 294,Texas,Texas,Texas,NULL,Texas Longhorns,NULL
@@ -326,7 +326,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 325,UTEP,Texas-El Paso,UTEP,NULL,UTEP Miners,NULL
 326,UTSA,Texas-San Antonio,UTSA,NULL,UTSA Roadrunners,NULL
 327,Utah,Utah,Utah,NULL,Utah Utes,NULL
-328,Utah St.,Utah State,Utah State,NULL,Utah St Aggies,NULL
+328,Utah St.,Utah State,Utah State,NULL,Utah State Aggies,NULL
 329,Utah Valley,Utah Valley,Utah Valley,NULL,Utah Valley Wolverines,NULL
 330,VCU,Virginia Commonwealth,VCU,NULL,VCU Rams,NULL
 331,VMI,VMI,VMI,NULL,VMI Keydets,NULL
@@ -340,7 +340,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 339,Wake Forest,Wake Forest,Wake Forest,NULL,Wake Forest Demon Deacons,NULL
 340,Washington,Washington,Washington,NULL,Washington Huskies,NULL
 341,Washington St.,Washington State,Washington State,NULL,Washington St Cougars,NULL
-342,Weber St.,Weber State,Weber State,NULL,Weber St Wildcats,NULL
+342,Weber St.,Weber State,Weber State,NULL,Weber State Wildcats,NULL
 343,West Virginia,West Virginia,West Virginia,NULL,West Virginia Mountaineers,NULL
 344,Western Carolina,Western Carolina,Western Carolina,NULL,Western Carolina Catamounts,NULL
 345,Western Illinois,Western Illinois,Western Illinois,NULL,Western Illinois Leathernecks,NULL
