@@ -1,4 +1,4 @@
-id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
+teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
 1,Abilene Christian,Abilene Christian,Abilene Christian,NULL,Abilene Christian Wildcats,NULL
 2,Air Force,Air Force,Air Force,NULL,Air Force Falcons,NULL
 3,Akron,Akron,Akron,NULL,Akron Zips,NULL
@@ -26,7 +26,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 25,Binghamton,Binghamton,Binghamton,NULL,Binghamton Bearcats,NULL
 26,Boise St.,Boise State,Boise State,NULL,Boise State Broncos,NULL
 27,Boston College,Boston College,Boston College,NULL,Boston College Eagles,NULL
-28,Boston University,Boston University,Boston University,NULL,Boston University Terriers,NULL
+28,Boston University,Boston University,Boston University,NULL,Boston Univ Terriers,NULL
 29,Bowling Green,Bowling Green State,Bowling Green,NULL,Bowling Green Falcons,NULL
 30,Bradley,Bradley,Bradley,NULL,Bradley Braves,NULL
 31,Brown,Brown,Brown,NULL,Brown Bears,NULL
@@ -37,7 +37,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 36,Cal Baptist,California Baptist,California Baptist,NULL,Cal Baptist Lancers,NULL
 37,Cal Poly,Cal Poly,Cal Poly,NULL,Cal Poly Mustangs,NULL
 38,Cal St. Bakersfield,Cal State Bakersfield,CSU Bakersfield,NULL,CSU Bakersfield Roadrunners,NULL
-39,Cal St. Fullerton,Cal State Fullerton,CSU Fullerton,NULL,Cal St Fullerton Titans,NULL
+39,Cal St. Fullerton,Cal State Fullerton,CSU Fullerton,NULL,CSU Fullerton Titans,NULL
 40,Cal St. Northridge,Cal State Northridge,CSU Northridge,NULL,CSU Northridge Matadors,NULL
 41,California,University of California,California,NULL,California Golden Bears,NULL
 42,Campbell,Campbell,Campbell,NULL,Campbell Fighting Camels,NULL
@@ -135,7 +135,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 134,Kansas,Kansas,Kansas,NULL,Kansas Jayhawks,NULL
 135,Kansas St.,Kansas State,Kansas State,NULL,Kansas St Wildcats,NULL
 136,Kennesaw St.,Kennesaw State,Kennesaw State,NULL,Kennesaw St Owls,NULL
-137,Kent St.,Kent State,Kent State,NULL,Kent St Golden Flashes,NULL
+137,Kent St.,Kent State,Kent State,NULL,Kent State Golden Flashes,NULL
 138,Kentucky,Kentucky,Kentucky,NULL,Kentucky Wildcats,NULL
 139,LIU,Long Island University,Long Island University,NULL,LIU Brooklyn Blackbirds,NULL
 140,LSU,Louisiana State,LSU,NULL,LSU Tigers,NULL
@@ -192,7 +192,7 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 191,Nebraska,Nebraska,Nebraska,NULL,Nebraska Cornhuskers,NULL
 192,Nebraska Omaha,Omaha,Omaha,NULL,Omaha Mavericks,NULL
 193,Nevada,Nevada,Nevada,NULL,Nevada Wolf Pack,NULL
-194,New Hampshire,New Hampshire,New Hampshire,NULL,New Hamp Wildcats,NULL
+194,New Hampshire,New Hampshire,New Hampshire,NULL,New Hampshire Wildcats,NULL
 195,New Mexico,New Mexico,New Mexico,NULL,New Mexico Lobos,NULL
 196,New Mexico St.,New Mexico State,New Mexico State,NULL,New Mexico St Aggies,NULL
 197,New Orleans,New Orleans,New Orleans,NULL,New Orleans Privateers,NULL
@@ -319,9 +319,9 @@ id,kenpom_name,sr_name,bpi_name,extra_name1,odds_api_name,extra_name3
 318,UNC Greensboro,North Carolina-Greensboro,UNC Greensboro,NULL,UNC Greensboro Spartans,NULL
 319,UNC Wilmington,North Carolina-Wilmington,UNC Wilmington,NULL,UNC Wilmington Seahawks,NULL
 320,UNLV,Nevada-Las Vegas,UNLV,NULL,UNLV Rebels,NULL
-321,USC,Southern California,USC,NULL,Southern California Trojans,NULL
+321,USC,Southern California,USC,NULL,USC Trojans,NULL
 322,USC Upstate,South Carolina Upstate,South Carolina Upstate,NULL,South Carolina Upstate Spartans,NULL
-323,UT Arlington,Texas-Arlington,UT Arlington,NULL,Texas Arlington Mavericks,NULL
+323,UT Arlington,Texas-Arlington,UT Arlington,NULL,UT Arlington Mavericks,NULL
 324,UT Rio Grande Valley,Texas-Rio Grande Valley,UT Rio Grande Valley,NULL,UT Rio Grande Valley Vaqueros,NULL
 325,UTEP,Texas-El Paso,UTEP,NULL,UTEP Miners,NULL
 326,UTSA,Texas-San Antonio,UTSA,NULL,UTSA Roadrunners,NULL

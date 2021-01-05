@@ -85,7 +85,7 @@ def add_BPI(teams_dict, BP):
                     team = team.replace("Se", "Southeast")
                     team = team.replace("SE", "Southeastern")
                     team = team.replace("Mt.", "Mount")
-                if team in ["Seattle U", "UM Kansas City", "Arkansas Little Rock", "Appalachian St", "Georgia St", "North Carolina St.", "Southeastern Missouri St", "San José St", "South Carolina Upstate", "California Baptist", "Detroit Mercy", "McNeese", "Southeast Missouri St", "UT Martin", "Nicholls", "Grambling", "Miami", "Ole Miss", "UConn", "Pennsylvania", "UMass", "UL Monroe", "Omaha", "UIC", "Florida International", "St. Francis BKN", "Hawai'i"]:
+                if team in ["Seattle U", "UM Kansas City", "Arkansas Little Rock", "Appalachian St", "Georgia St", "North Carolina St.", "Southeastern Missouri St", "San José St", "South Carolina Upstate", "California Baptist", "Detroit Mercy", "McNeese", "Southeast Missouri St", "UT Martin", "Nicholls", "Grambling", "Miami", "Ole Miss", "UConn", "Pennsylvania", "UMass", "UL Monroe", "Omaha", "UIC", "Florida Int'l", "St. Francis BKN", "Hawai'i"]:
                     team = team.replace("Seattle U", "Seattle")
                     team = team.replace("UM Kansas City", "UMKC")
                     team = team.replace("Arkansas Little Rock", "Little Rock")
@@ -113,7 +113,7 @@ def add_BPI(teams_dict, BP):
                     team = team.replace("UL Monroe", "Louisiana Monroe")
                     team = team.replace("Omaha", "Nebraska Omaha")
                     team = team.replace("UIC", "Illinois Chicago")
-                    team = team.replace("Florida International", "FIU")
+                    team = team.replace("Florida Int'l", "FIU")
                     team = team.replace("St. Francis BKN", "St. Francis NY")
                     team = team.replace("Hawai'i", "Hawaii")
 

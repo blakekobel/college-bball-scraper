@@ -31,6 +31,26 @@ class Db_Helper:
         rows = cursor.fetchall()
         cursor.close()
         return rows
+    
+    def insert_odds(self, games):
+        cursor = self.db.cursor()
+        insert_statement = """INSERT INTO fbsprod.suggested_bets_current
+            (start_time, home_team, away_team, bovada_odds, dk_odds, wh_odds, bovada_last_updated, dk_last_updated, wh_last_updated, minimum_suggested_odds, pick)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"""
+        truncate_statement = "truncate table fbsprod.suggested_bets_current;"
+        cursor.execute(truncate_statement)
+        cursor.executemany(insert_statement, games)
+        self.db.commit()
+    
+    def insert_odds_historical(self, games):
+        cursor = self.db.cursor()
+        insert_statement = """INSERT INTO fbsprod.suggested_bets_historical
+            (start_time, home_team, away_team, bet_site, odds, last_updated, minimum_suggested_odds, pick)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"""
+        Delete_statement = "Delete FROM fbsprod.suggested_bets_historical where start_time > CONVERT_TZ(now(),'Etc/GMT','US/Central');"
+        cursor.execute(Delete_statement)
+        cursor.executemany(insert_statement, games)
+        self.db.commit()
 
     def close(self):
         self.db.close()
