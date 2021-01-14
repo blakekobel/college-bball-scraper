@@ -1,2 +1,2 @@
 # college-bball-scraper
-Scrapes ESPN, Sports Reference and Ken Pom. Does Machine Learning as well
+This repo contains a variety of experimenting that has been done for both personal learning and for Fast Break Stats. The scripts are broken down into 3 folders: FBS ML, non-ML, and getting SOS games. ML and SOS games contains different attempts/tests of ML algorithms against college basketball data. Non-ML contains different scripting that was created during brainstorming for the production of Fast Break Stats which is in a private repo.
