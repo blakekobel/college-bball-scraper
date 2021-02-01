@@ -1,0 +1,358 @@
+teamID,kenpom_name,sr_name,bpi_name,sr_games_name,odds_api_name,extra_name3
+1,"Abilene Christian","Abilene Christian","Abilene Christian","Abilene Christian","Abilene Christian Wildcats",NULL
+2,"Air Force","Air Force","Air Force","Air Force","Air Force Falcons",NULL
+3,Akron,Akron,Akron,Akron,"Akron Zips",NULL
+4,Alabama,Alabama,Alabama,Alabama,"Alabama Crimson Tide",NULL
+5,"Alabama A&M","Alabama A&M","Alabama A&M","Alabama A&M","Alabama A&M Bulldogs",NULL
+6,"Alabama St","Alabama State","Alabama State","Alabama State","Alabama St Hornets",NULL
+7,Albany,"Albany NY",Albany,"Albany NY","Albany Great Danes",NULL
+8,"Alcorn St","Alcorn State","Alcorn State","Alcorn State","Alcorn St Braves",NULL
+9,American,American,American,American,"American Eagles",NULL
+10,"Appalachian St","Appalachian State","Appalachian State","Appalachian State","Appalachian St Mountaineers",NULL
+11,Arizona,Arizona,Arizona,Arizona,"Arizona Wildcats",NULL
+12,"Arizona St","Arizona State","Arizona State","Arizona State","Arizona St Sun Devils",NULL
+13,Arkansas,Arkansas,Arkansas,Arkansas,"Arkansas Razorbacks",NULL
+14,"Arkansas Pine Bluff","Arkansas Pine Bluff","Arkansas Pine Bluff","Arkansas Pine Bluff","Arkansas Pine Bluff Golden Lions",NULL
+15,"Arkansas St","Arkansas State","Arkansas State","Arkansas State","Arkansas St Red Wolves",NULL
+16,Army,Army,Army,Army,"Army Knights",NULL
+17,Auburn,Auburn,Auburn,Auburn,"Auburn Tigers",NULL
+18,"Austin Peay","Austin Peay","Austin Peay","Austin Peay","Austin Peay Governors",NULL
+19,BYU,"Brigham Young",BYU,BYU,"BYU Cougars",NULL
+20,"Ball St","Ball State","Ball State","Ball State","Ball State Cardinals",NULL
+21,Baylor,Baylor,Baylor,Baylor,"Baylor Bears",NULL
+22,Bellarmine,Bellarmine,Bellarmine,Bellarmine,"Bellarmine Knights",NULL
+23,Belmont,Belmont,Belmont,Belmont,"Belmont Bruins",NULL
+24,"Bethune Cookman","Bethune Cookman","Bethune Cookman","Bethune Cookman","Bethune Cookman Wildcats",NULL
+25,Binghamton,Binghamton,Binghamton,Binghamton,"Binghamton Bearcats",NULL
+26,"Boise St","Boise State","Boise State","Boise State","Boise State Broncos",NULL
+27,"Boston College","Boston College","Boston College","Boston College","Boston College Eagles",NULL
+28,"Boston University","Boston University","Boston Univ","Boston University","Boston Univ Terriers",NULL
+29,"Bowling Green","Bowling Green State","Bowling Green","Bowling Green State","Bowling Green Falcons",NULL
+30,Bradley,Bradley,Bradley,Bradley,"Bradley Braves",NULL
+31,Brown,Brown,Brown,Brown,"Brown Bears",NULL
+32,Bryant,Bryant,Bryant,Bryant,"Bryant Bulldogs",NULL
+33,Bucknell,Bucknell,Bucknell,Bucknell,"Bucknell Bison",NULL
+34,Buffalo,Buffalo,Buffalo,Buffalo,"Buffalo Bulls",NULL
+35,Butler,Butler,Butler,Butler,"Butler Bulldogs",NULL
+36,"Cal Baptist","California Baptist","California Baptist","California Baptist","Cal Baptist Lancers",NULL
+37,"Cal Poly","Cal Poly","Cal Poly","Cal Poly","Cal Poly Mustangs",NULL
+38,"Cal St Bakersfield","Cal State Bakersfield","CSU Bakersfield","Cal State Bakersfield","CSU Bakersfield Roadrunners",NULL
+39,"Cal St Fullerton","Cal State Fullerton","CSU Fullerton","Cal State Fullerton","CSU Fullerton Titans",NULL
+40,"Cal St Northridge","Cal State Northridge","CSU Northridge","Cal State Northridge","CSU Northridge Matadors",NULL
+41,California,"University of California",California,California,"California Golden Bears",NULL
+42,Campbell,Campbell,Campbell,Campbell,"Campbell Fighting Camels",NULL
+43,Canisius,Canisius,Canisius,Canisius,"Canisius Golden Griffins",NULL
+44,"Central Arkansas","Central Arkansas","Central Arkansas","Central Arkansas","Central Arkansas Bears",NULL
+45,"Central Connecticut","Central Connecticut State","Central Connecticut","Central Connecticut","Central Connecticut St Blue Devils",NULL
+46,"Central Michigan","Central Michigan","Central Michigan","Central Michigan","Central Michigan Chippewas",NULL
+47,Charleston,"College of Charleston",Charleston,"College of Charleston","Charleston Cougars",NULL
+48,"Charleston Southern","Charleston Southern","Charleston Southern","Charleston Southern","Charleston Southern Buccaneers",NULL
+49,Charlotte,Charlotte,Charlotte,Charlotte,"Charlotte 49ers",NULL
+50,Chattanooga,Chattanooga,Chattanooga,Chattanooga,"Chattanooga Mocs",NULL
+51,"Chicago St","Chicago State","Chicago State","Chicago State","Chicago St Cougars",NULL
+52,Cincinnati,Cincinnati,Cincinnati,Cincinnati,"Cincinnati Bearcats",NULL
+53,Clemson,Clemson,Clemson,Clemson,"Clemson Tigers",NULL
+54,"Cleveland St","Cleveland State","Cleveland State","Cleveland State","Cleveland St Vikings",NULL
+55,"Coastal Carolina","Coastal Carolina","Coastal Carolina","Coastal Carolina","Coastal Carolina Chanticleers",NULL
+56,Colgate,Colgate,Colgate,Colgate,"Colgate Raiders",NULL
+57,Colorado,Colorado,Colorado,Colorado,"Colorado Buffaloes",NULL
+58,"Colorado St","Colorado State","Colorado State","Colorado State","Colorado St Rams",NULL
+59,Columbia,Columbia,Columbia,Columbia,"Columbia Lions",NULL
+60,Connecticut,Connecticut,UConn,UConn,"UConn Huskies",NULL
+61,"Coppin St","Coppin State","Coppin St","Coppin State","Coppin St Eagles",NULL
+62,Cornell,Cornell,Cornell,Cornell,"Cornell Big Red",NULL
+63,Creighton,Creighton,Creighton,Creighton,"Creighton Bluejays",NULL
+64,Dartmouth,Dartmouth,Dartmouth,Dartmouth,"Dartmouth Big Green",NULL
+65,Davidson,Davidson,Davidson,Davidson,"Davidson Wildcats",NULL
+66,Dayton,Dayton,Dayton,Dayton,"Dayton Flyers",NULL
+67,DePaul,DePaul,DePaul,DePaul,"DePaul Blue Demons",NULL
+68,Delaware,Delaware,Delaware,Delaware,"Delaware Blue Hens",NULL
+69,"Delaware St","Delaware State","Delaware St","Delaware State","Delaware St Hornets",NULL
+70,Denver,Denver,Denver,Denver,"Denver Pioneers",NULL
+71,Detroit,"Detroit Mercy","Detroit Mercy",Detroit,"Detroit Mercy Titans",NULL
+72,"Dixie St","Dixie State","Dixie State","Dixie State","Dixie St Trailblazers",NULL
+73,Drake,Drake,Drake,Drake,"Drake Bulldogs",NULL
+74,Drexel,Drexel,Drexel,Drexel,"Drexel Dragons",NULL
+75,Duke,Duke,Duke,Duke,"Duke Blue Devils",NULL
+76,Duquesne,Duquesne,Duquesne,Duquesne,"Duquesne Dukes",NULL
+77,"East Carolina","East Carolina","East Carolina","East Carolina","East Carolina Pirates",NULL
+78,"East Tennessee St","East Tennessee State","East Tennessee State",ETSU,"East Tennessee St Buccaneers",NULL
+79,"Eastern Illinois","Eastern Illinois","Eastern Illinois","Eastern Illinois","Eastern Illinois Panthers",NULL
+80,"Eastern Kentucky","Eastern Kentucky","Eastern Kentucky","Eastern Kentucky","Eastern Kentucky Colonels",NULL
+81,"Eastern Michigan","Eastern Michigan","Eastern Michigan","Eastern Michigan","Eastern Michigan Eagles",NULL
+82,"Eastern Washington","Eastern Washington","Eastern Washington","Eastern Washington","Eastern Washington Eagles",NULL
+83,Elon,Elon,Elon,Elon,"Elon Phoenix",NULL
+84,Evansville,Evansville,Evansville,Evansville,"Evansville Purple Aces",NULL
+85,FIU,"Florida International","Florida Int'l","Florida International","Florida Int'l Golden Panthers",NULL
+86,Fairfield,Fairfield,Fairfield,Fairfield,"Fairfield Stags",NULL
+87,"Fairleigh Dickinson","Fairleigh Dickinson","Fairleigh Dickinson","Fairleigh Dickinson","Fairleigh Dickinson Knights",NULL
+88,Florida,Florida,Florida,Florida,"Florida Gators",NULL
+89,"Florida A&M","Florida A&M","Florida A&M","Florida A&M","Florida A&M Rattlers",NULL
+90,"Florida Atlantic","Florida Atlantic","Florida Atlantic","Florida Atlantic","Florida Atlantic Owls",NULL
+91,"Florida Gulf Coast","Florida Gulf Coast","Florida Gulf Coast","Florida Gulf Coast","Florida Gulf Coast Eagles",NULL
+92,"Florida St","Florida State","Florida State","Florida State","Florida St Seminoles",NULL
+93,Fordham,Fordham,Fordham,Fordham,"Fordham Rams",NULL
+94,"Fresno St","Fresno State","Fresno State","Fresno State","Fresno St Bulldogs",NULL
+95,Furman,Furman,Furman,Furman,"Furman Paladins",NULL
+96,"Gardner Webb","Gardner Webb","Gardner Webb","Gardner Webb","Gardner Webb Bulldogs",NULL
+97,"George Mason","George Mason","George Mason","George Mason","George Mason Patriots",NULL
+98,"George Washington","George Washington","George Washington","George Washington","George Washington Colonials",NULL
+99,Georgetown,Georgetown,Georgetown,Georgetown,"Georgetown Hoyas",NULL
+100,Georgia,Georgia,Georgia,Georgia,"Georgia Bulldogs",NULL
+101,"Georgia Southern","Georgia Southern","Georgia Southern","Georgia Southern","Georgia Southern Eagles",NULL
+102,"Georgia St","Georgia State","Georgia State","Georgia State","Georgia St Panthers",NULL
+103,"Georgia Tech","Georgia Tech","Georgia Tech","Georgia Tech","Georgia Tech Yellow Jackets",NULL
+104,Gonzaga,Gonzaga,Gonzaga,Gonzaga,"Gonzaga Bulldogs",NULL
+105,"Grambling St",Grambling,Grambling,Grambling,"Grambling St Tigers",NULL
+106,"Grand Canyon","Grand Canyon","Grand Canyon","Grand Canyon","Grand Canyon Antelopes",NULL
+107,"Green Bay","Green Bay","Green Bay","Green Bay","Green Bay Phoenix",NULL
+108,Hampton,Hampton,Hampton,Hampton,"Hampton Pirates",NULL
+109,Hartford,Hartford,Hartford,Hartford,"Hartford Hawks",NULL
+110,Harvard,Harvard,Harvard,Harvard,"Harvard Crimson",NULL
+111,Hawaii,Hawaii,Hawai'i,Hawaii,"Hawai'i Rainbow Warriors",NULL
+112,"High Point","High Point","High Point","High Point","High Point Panthers",NULL
+113,Hofstra,Hofstra,Hofstra,Hofstra,"Hofstra Pride",NULL
+114,"Holy Cross","Holy Cross","Holy Cross","Holy Cross","Holy Cross Crusaders",NULL
+115,Houston,Houston,Houston,Houston,"Houston Cougars",NULL
+116,"Houston Baptist","Houston Baptist","Houston Baptist","Houston Baptist","Houston Baptist Huskies",NULL
+117,Howard,Howard,Howard,Howard,"Howard Bison",NULL
+118,IUPUI,IUPUI,IUPUI,IUPUI,"IUPUI Jaguars",NULL
+119,Idaho,Idaho,Idaho,Idaho,"Idaho Vandals",NULL
+120,"Idaho St","Idaho State","Idaho State","Idaho State","Idaho State Bengals",NULL
+121,Illinois,Illinois,Illinois,Illinois,"Illinois Fighting Illini",NULL
+122,"Illinois Chicago","Illinois Chicago",UIC,UIC,"UIC Flames",NULL
+123,"Illinois St","Illinois State","Illinois State","Illinois State","Illinois St Redbirds",NULL
+124,"Incarnate Word","Incarnate Word","Incarnate Word","Incarnate Word","Incarnate Word Cardinals",NULL
+125,Indiana,Indiana,Indiana,Indiana,"Indiana Hoosiers",NULL
+126,"Indiana St","Indiana State","Indiana State","Indiana State","Indiana St Sycamores",NULL
+127,Iona,Iona,Iona,Iona,"Iona Gaels",NULL
+128,Iowa,Iowa,Iowa,Iowa,"Iowa Hawkeyes",NULL
+129,"Iowa St","Iowa State","Iowa State","Iowa State","Iowa State Cyclones",NULL
+130,"Jackson St","Jackson State","Jackson State","Jackson State","Jackson St Tigers",NULL
+131,Jacksonville,Jacksonville,Jacksonville,Jacksonville,"Jacksonville Dolphins",NULL
+132,"Jacksonville St","Jacksonville State","Jacksonville State","Jacksonville State","Jacksonville St Gamecocks",NULL
+133,"James Madison","James Madison","James Madison","James Madison","James Madison Dukes",NULL
+134,Kansas,Kansas,Kansas,Kansas,"Kansas Jayhawks",NULL
+135,"Kansas St","Kansas State","Kansas State","Kansas State","Kansas St Wildcats",NULL
+136,"Kennesaw St","Kennesaw State","Kennesaw State","Kennesaw State","Kennesaw St Owls",NULL
+137,"Kent St","Kent State","Kent State","Kent State","Kent State Golden Flashes",NULL
+138,Kentucky,Kentucky,Kentucky,Kentucky,"Kentucky Wildcats",NULL
+139,LIU,"Long Island University","Long Island University",LIU,"LIU Brooklyn Blackbirds",NULL
+140,LSU,"Louisiana State",LSU,LSU,"LSU Tigers",NULL
+141,"La Salle","La Salle","La Salle","La Salle","La Salle Explorers",NULL
+142,Lafayette,Lafayette,Lafayette,Lafayette,"Lafayette Leopards",NULL
+143,Lamar,Lamar,Lamar,Lamar,"Lamar Cardinals",NULL
+144,Lehigh,Lehigh,Lehigh,Lehigh,"Lehigh Mountain Hawks",NULL
+145,Liberty,Liberty,Liberty,Liberty,"Liberty Flames",NULL
+146,Lipscomb,Lipscomb,Lipscomb,Lipscomb,"Lipscomb Bisons",NULL
+147,"Little Rock","Little Rock","Little Rock","Little Rock","Arkansas Little Rock Trojans",NULL
+148,"Long Beach St","Cal State Long Beach","Long Beach State","Long Beach State","Long Beach St 49ers",NULL
+149,Longwood,Longwood,Longwood,Longwood,"Longwood Lancers",NULL
+150,Louisiana,Louisiana,Louisiana,Louisiana,"Louisiana Ragin' Cajuns",NULL
+151,"Louisiana Monroe","Louisiana Monroe","UL Monroe","Louisiana Monroe","UL Monroe Warhawks",NULL
+152,"Louisiana Tech","Louisiana Tech","Louisiana Tech","Louisiana Tech","Louisiana Tech Bulldogs",NULL
+153,Louisville,Louisville,Louisville,Louisville,"Louisville Cardinals",NULL
+154,"Loyola Chicago","Loyola IL","Loyola Chicago","Loyola IL","Loyola Chi Ramblers",NULL
+155,"Loyola MD","Loyola MD","Loyola MD","Loyola MD","Loyola Maryland Greyhounds",NULL
+156,"Loyola Marymount","Loyola Marymount","Loyola Marymount","Loyola Marymount","Loyola Marymount Lions",NULL
+157,Maine,Maine,Maine,Maine,"Maine Black Bears",NULL
+158,Manhattan,Manhattan,Manhattan,Manhattan,"Manhattan Jaspers",NULL
+159,Marist,Marist,Marist,Marist,"Marist Red Foxes",NULL
+160,Marquette,Marquette,Marquette,Marquette,"Marquette Golden Eagles",NULL
+161,Marshall,Marshall,Marshall,Marshall,"Marshall Thundering Herd",NULL
+162,Maryland,Maryland,Maryland,Maryland,"Maryland Terrapins",NULL
+163,"Maryland Eastern Shore","Maryland Eastern Shore","Maryland Eastern Shore","Maryland Eastern Shore","Maryland Eastern Shore Hawks",NULL
+164,Massachusetts,Massachusetts,UMass,UMass,"Massachusetts Minutemen",NULL
+165,"McNeese St","McNeese State",McNeese,"McNeese State","Mcneese St Mcneese",NULL
+166,Memphis,Memphis,Memphis,Memphis,"Memphis Tigers",NULL
+167,Mercer,Mercer,Mercer,Mercer,"Mercer Bears",NULL
+168,Merrimack,Merrimack,Merrimack,Merrimack,"Merrimack Warriors",NULL
+169,"Miami FL","Miami FL",Miami,"Miami FL","Miami Hurricanes",NULL
+170,"Miami OH","Miami OH","Miami OH","Miami OH","Miami OH RedHawks",NULL
+171,Michigan,Michigan,Michigan,Michigan,"Michigan Wolverines",NULL
+172,"Michigan St","Michigan State","Michigan State","Michigan State","Michigan St Spartans",NULL
+173,"Middle Tennessee","Middle Tennessee","Middle Tennessee","Middle Tennessee","Middle Tennessee Blue Raiders",NULL
+174,Milwaukee,Milwaukee,Milwaukee,Milwaukee,"Milwaukee Panthers",NULL
+175,Minnesota,Minnesota,Minnesota,Minnesota,"Minnesota Golden Gophers",NULL
+176,Mississippi,Mississippi,"Ole Miss","Ole Miss","Ole Miss Rebels",NULL
+177,"Mississippi St","Mississippi State","Mississippi State","Mississippi State","Mississippi St Bulldogs",NULL
+178,"Mississippi Valley St","Mississippi Valley State","Mississippi Valley State","Mississippi Valley State","Miss Valley St Delta Devils",NULL
+179,Missouri,Missouri,Missouri,Missouri,"Missouri Tigers",NULL
+180,"Missouri St","Missouri State","Missouri State","Missouri State","Missouri St Bears",NULL
+181,Monmouth,Monmouth,Monmouth,Monmouth,"Monmouth Hawks",NULL
+182,Montana,Montana,Montana,Montana,"Montana Grizzlies",NULL
+183,"Montana St","Montana State","Montana State","Montana State","Montana St Bobcats",NULL
+184,"Morehead St","Morehead State","Morehead State","Morehead State","Morehead St Eagles",NULL
+185,"Morgan St","Morgan State","Morgan St","Morgan State","Morgan St Bears",NULL
+186,"Mount St Mary's","Mount St Mary's","Mount St Mary's","Mount St Mary's","Mt St Mary's Mountaineers",NULL
+187,"Murray St","Murray State","Murray State","Murray State","Murray St Racers",NULL
+188,"NC State","North Carolina State","NC State","NC State","NC State Wolfpack",NULL
+189,NJIT,NJIT,NJIT,NJIT,"NJIT Highlanders",NULL
+190,Navy,Navy,Navy,Navy,"Navy Midshipmen",NULL
+191,Nebraska,Nebraska,Nebraska,Nebraska,"Nebraska Cornhuskers",NULL
+192,"Nebraska Omaha",Omaha,Omaha,Omaha,"Omaha Mavericks",NULL
+193,Nevada,Nevada,Nevada,Nevada,"Nevada Wolf Pack",NULL
+194,"New Hampshire","New Hampshire","New Hampshire","New Hampshire","New Hampshire Wildcats",NULL
+195,"New Mexico","New Mexico","New Mexico","New Mexico","New Mexico Lobos",NULL
+196,"New Mexico St","New Mexico State","New Mexico State","New Mexico State","New Mexico St Aggies",NULL
+197,"New Orleans","New Orleans","New Orleans","New Orleans","New Orleans Privateers",NULL
+198,Niagara,Niagara,Niagara,Niagara,"Niagara Purple Eagles",NULL
+199,"Nicholls St","Nicholls State",Nicholls,"Nicholls State","Nicholls St Colonels",NULL
+200,"Norfolk St","Norfolk State","Norfolk St","Norfolk State","Norfolk St Spartans",NULL
+201,"North Alabama","North Alabama","North Alabama","North Alabama","North Alabama Lions",NULL
+202,"North Carolina","North Carolina","North Carolina",UNC,"North Carolina Tar Heels",NULL
+203,"North Carolina A&T","North Carolina A&T","North Carolina A&T","North Carolina A&T","North Carolina A&T Aggies",NULL
+204,"North Carolina Central","North Carolina Central","North Carolina Central","North Carolina Central","North Carolina Central Eagles",NULL
+205,"North Dakota","North Dakota","North Dakota","North Dakota","North Dakota Fighting Hawks",NULL
+206,"North Dakota St","North Dakota State","North Dakota State","North Dakota State","North Dakota St Bison",NULL
+207,"North Florida","North Florida","North Florida","North Florida","North Florida Ospreys",NULL
+208,"North Texas","North Texas","North Texas","North Texas","North Texas Mean Green",NULL
+209,Northeastern,Northeastern,Northeastern,Northeastern,"Northeastern Huskies",NULL
+210,"Northern Arizona","Northern Arizona","Northern Arizona","Northern Arizona","Northern Arizona Lumberjacks",NULL
+211,"Northern Colorado","Northern Colorado","Northern Colorado","Northern Colorado","N Colorado Bears",NULL
+212,"Northern Illinois","Northern Illinois","Northern Illinois","Northern Illinois","Northern Illinois Huskies",NULL
+213,"Northern Iowa","Northern Iowa","Northern Iowa","Northern Iowa","Northern Iowa Panthers",NULL
+214,"Northern Kentucky","Northern Kentucky","Northern Kentucky","Northern Kentucky","Northern Kentucky Norse",NULL
+215,Northwestern,Northwestern,Northwestern,Northwestern,"Northwestern Wildcats",NULL
+216,"Northwestern St","Northwestern State","Northwestern State","Northwestern State","Northwestern St Demons",NULL
+217,"Notre Dame","Notre Dame","Notre Dame","Notre Dame","Notre Dame Fighting Irish",NULL
+218,Oakland,Oakland,Oakland,Oakland,"Oakland Golden Grizzlies",NULL
+219,Ohio,Ohio,Ohio,Ohio,"Ohio Bobcats",NULL
+220,"Ohio St","Ohio State","Ohio State","Ohio State","Ohio State Buckeyes",NULL
+221,Oklahoma,Oklahoma,Oklahoma,Oklahoma,"Oklahoma Sooners",NULL
+222,"Oklahoma St","Oklahoma State","Oklahoma State","Oklahoma State","Oklahoma St Cowboys",NULL
+223,"Old Dominion","Old Dominion","Old Dominion","Old Dominion","Old Dominion Monarchs",NULL
+224,"Oral Roberts","Oral Roberts","Oral Roberts","Oral Roberts","Oral Roberts Golden Eagles",NULL
+225,Oregon,Oregon,Oregon,Oregon,"Oregon Ducks",NULL
+226,"Oregon St","Oregon State","Oregon State","Oregon State","Oregon St Beavers",NULL
+227,Pacific,Pacific,Pacific,Pacific,"Pacific Tigers",NULL
+228,Penn,Pennsylvania,Pennsylvania,Penn,"Pennsylvania Quakers",NULL
+229,"Penn St","Penn State","Penn State","Penn State","Penn State Nittany Lions",NULL
+230,Pepperdine,Pepperdine,Pepperdine,Pepperdine,"Pepperdine Waves",NULL
+231,Pittsburgh,Pittsburgh,Pittsburgh,Pitt,"Pittsburgh Panthers",NULL
+232,Portland,Portland,Portland,Portland,"Portland Pilots",NULL
+233,"Portland St","Portland State","Portland State","Portland State","Portland St Vikings",NULL
+234,"Prairie View A&M","Prairie View","Prairie View A&M","Prairie View","Prairie View Panthers",NULL
+235,Presbyterian,Presbyterian,Presbyterian,Presbyterian,"Presbyterian Blue Hose",NULL
+236,Princeton,Princeton,Princeton,Princeton,"Princeton Tigers",NULL
+237,Providence,Providence,Providence,Providence,"Providence Friars",NULL
+238,Purdue,Purdue,Purdue,Purdue,"Purdue Boilermakers",NULL
+239,"Purdue Fort Wayne","Purdue Fort Wayne","Purdue Fort Wayne","Purdue Fort Wayne","Fort Wayne Mastodons",NULL
+240,Quinnipiac,Quinnipiac,Quinnipiac,Quinnipiac,"Quinnipiac Bobcats",NULL
+241,Radford,Radford,Radford,Radford,"Radford Highlanders",NULL
+242,"Rhode Island","Rhode Island","Rhode Island","Rhode Island","Rhode Island Rams",NULL
+243,Rice,Rice,Rice,Rice,"Rice Owls",NULL
+244,Richmond,Richmond,Richmond,Richmond,"Richmond Spiders",NULL
+245,Rider,Rider,Rider,Rider,"Rider Broncs",NULL
+246,"Robert Morris","Robert Morris","Robert Morris","Robert Morris","Robert Morris Colonials",NULL
+247,Rutgers,Rutgers,Rutgers,Rutgers,"Rutgers Scarlet Knights",NULL
+248,"SIU Edwardsville","SIU Edwardsville","SIU Edwardsville","SIU Edwardsville","SIU Edwardsville Cougars",NULL
+249,SMU,"Southern Methodist",SMU,SMU,"SMU Mustangs",NULL
+250,"Sacramento St","Sacramento State","Sacramento State","Sacramento State","Sacramento St Hornets",NULL
+251,"Sacred Heart","Sacred Heart","Sacred Heart","Sacred Heart","Sacred Heart Pioneers",NULL
+252,"Saint Joseph's","Saint Joseph's","Saint Joseph's","St Joseph's","Saint Joseph's Hawks",NULL
+253,"Saint Louis","Saint Louis","Saint Louis","Saint Louis","Saint Louis Billikens",NULL
+254,"Saint Mary's","Saint Mary's CA","Saint Mary's","Saint Mary's","Saint Mary's Gaels",NULL
+255,"Saint Peter's","Saint Peter's","Saint Peter's","St Peter's","Saint Peter's Peacocks",NULL
+256,"Sam Houston St","Sam Houston State","Sam Houston State","Sam Houston State","Sam Houston St Bearkats",NULL
+257,Samford,Samford,Samford,Samford,"Samford Bulldogs",NULL
+258,"San Diego","San Diego","San Diego","San Diego","San Diego Toreros",NULL
+259,"San Diego St","San Diego State","San Diego State","San Diego State","San Diego St Aztecs",NULL
+260,"San Francisco","San Francisco","San Francisco","San Francisco","San Francisco Dons",NULL
+261,"San Jose St","San Jose State","San Jose St","San Jose State","San José St Spartans",NULL
+262,"Santa Clara","Santa Clara","Santa Clara","Santa Clara","Santa Clara Broncos",NULL
+263,Seattle,Seattle,"Seattle U",Seattle,"Seattle Redhawks",NULL
+264,"Seton Hall","Seton Hall","Seton Hall","Seton Hall","Seton Hall Pirates",NULL
+265,Siena,Siena,Siena,Siena,"Siena Saints",NULL
+266,"South Alabama","South Alabama","South Alabama","South Alabama","South Alabama Jaguars",NULL
+267,"South Carolina","South Carolina","South Carolina","South Carolina","South Carolina Gamecocks",NULL
+268,"South Carolina St","South Carolina State","South Carolina St","South Carolina State","South Carolina St Bulldogs",NULL
+269,"South Dakota","South Dakota","South Dakota","South Dakota","South Dakota Coyotes",NULL
+270,"South Dakota St","South Dakota State","South Dakota State","South Dakota State","South Dakota St Jackrabbits",NULL
+271,"South Florida","South Florida","South Florida","South Florida","South Florida Bulls",NULL
+272,"Southeast Missouri St","Southeast Missouri State","Southeast Missouri State","Southeast Missouri State","SE Missouri St Redhawks",NULL
+273,"Southeastern Louisiana","Southeastern Louisiana","SE Louisiana","Southeastern Louisiana","SE Louisiana Lions",NULL
+274,Southern,Southern,Southern,Southern,"Southern Jaguars",NULL
+275,"Southern Illinois","Southern Illinois","Southern Illinois","Southern Illinois","Southern Illinois Salukis",NULL
+276,"Southern Miss","Southern Mississippi","Southern Miss","Southern Miss","Southern Miss Golden Eagles",NULL
+277,"Southern Utah","Southern Utah","Southern Utah","Southern Utah","Southern Utah Thunderbirds",NULL
+278,"St Bonaventure","St Bonaventure","St Bonaventure","St Bonaventure","St Bonaventure Bonnies",NULL
+279,"St Francis NY","St Francis NY","St Francis BKN","St Francis NY","St Francis BKN Terriers",NULL
+280,"St Francis PA","Saint Francis PA","St Francis PA","Saint Francis PA","St Francis PA Red Flash",NULL
+281,"St John's","St John's NY","St John's","St John's NY","St John's Red Storm",NULL
+282,Stanford,Stanford,Stanford,Stanford,"Stanford Cardinal",NULL
+283,"Stephen F Austin","Stephen F Austin","Stephen F Austin","Stephen F Austin","Stephen F Austin Lumberjacks",NULL
+284,Stetson,Stetson,Stetson,Stetson,"Stetson Hatters",NULL
+285,"Stony Brook","Stony Brook","Stony Brook","Stony Brook","Stony Brook Seawolves",NULL
+286,Syracuse,Syracuse,Syracuse,Syracuse,"Syracuse Orange",NULL
+287,TCU,"Texas Christian",TCU,TCU,"TCU Horned Frogs",NULL
+288,"Tarleton St","Tarleton State",Tarleton,"Tarleton State","Tarleton St Texans",NULL
+289,Temple,Temple,Temple,Temple,"Temple Owls",NULL
+290,Tennessee,Tennessee,Tennessee,Tennessee,"Tennessee Volunteers",NULL
+291,"Tennessee Martin","Tennessee Martin","UT Martin","UT Martin","Tenn Martin Skyhawks",NULL
+292,"Tennessee St","Tennessee State","Tennessee State","Tennessee State","Tennessee St Tigers",NULL
+293,"Tennessee Tech","Tennessee Tech","Tennessee Tech","Tennessee Tech","Tennessee Tech Golden Eagles",NULL
+294,Texas,Texas,Texas,Texas,"Texas Longhorns",NULL
+295,"Texas A&M","Texas A&M","Texas A&M","Texas A&M","Texas A&M Aggies",NULL
+296,"Texas A&M Corpus Chris","Texas A&M Corpus Christi","Texas A&M CC","Texas A&M Corpus Christi","Texas A&M CC Islanders",NULL
+297,"Texas Southern","Texas Southern","Texas Southern","Texas Southern","Texas Southern Tigers",NULL
+298,"Texas St","Texas State","Texas State","Texas State","Texas State Bobcats",NULL
+299,"Texas Tech","Texas Tech","Texas Tech","Texas Tech","Texas Tech Red Raiders",NULL
+300,"The Citadel",Citadel,"The Citadel",Citadel,"The Citadel Bulldogs",NULL
+301,Toledo,Toledo,Toledo,Toledo,"Toledo Rockets",NULL
+302,Towson,Towson,Towson,Towson,"Towson Tigers",NULL
+303,Troy,Troy,Troy,Troy,"Troy Trojans",NULL
+304,Tulane,Tulane,Tulane,Tulane,"Tulane Green Wave",NULL
+305,Tulsa,Tulsa,Tulsa,Tulsa,"Tulsa Golden Hurricane",NULL
+306,UAB,"Alabama Birmingham",UAB,"Alabama Birmingham","UAB Blazers",NULL
+307,"UC Davis","UC Davis","UC Davis","UC Davis","UC Davis Aggies",NULL
+308,"UC Irvine","UC Irvine","UC Irvine","UC Irvine","UC Irvine Anteaters",NULL
+309,"UC Riverside","UC Riverside","UC Riverside","UC Riverside","UC Riverside Highlanders",NULL
+310,"UC San Diego","UC San Diego","UC San Diego","UC San Diego","California San Diego Tritons",NULL
+311,"UC Santa Barbara","UC Santa Barbara","UC Santa Barbara",UCSB,"UC Santa Barbara Gauchos",NULL
+312,UCF,"Central Florida",UCF,UCF,"UCF Knights",NULL
+313,UCLA,UCLA,UCLA,UCLA,"UCLA Bruins",NULL
+314,UMBC,"Maryland Baltimore County",UMBC,UMBC,"UMBC Retrievers",NULL
+315,UMKC,"Missouri Kansas City","UM Kansas City",UMKC,"UMKC Kangaroos",NULL
+316,"UMass Lowell","Massachusetts Lowell","UMass Lowell","UMass Lowell","UMass Lowell River Hawks",NULL
+317,"UNC Asheville","North Carolina Asheville","UNC Asheville","UNC Asheville","UNC Asheville Bulldogs",NULL
+318,"UNC Greensboro","North Carolina Greensboro","UNC Greensboro","UNC Greensboro","UNC Greensboro Spartans",NULL
+319,"UNC Wilmington","North Carolina Wilmington","UNC Wilmington","UNC Wilmington","UNC Wilmington Seahawks",NULL
+320,UNLV,"Nevada Las Vegas",UNLV,UNLV,"UNLV Rebels",NULL
+321,USC,"Southern California",USC,USC,"USC Trojans",NULL
+322,"USC Upstate","South Carolina Upstate","South Carolina Upstate","USC Upstate","South Carolina Upstate Spartans",NULL
+323,"UT Arlington","Texas Arlington","UT Arlington","Texas Arlington","UT Arlington Mavericks",NULL
+324,"UT Rio Grande Valley","Texas Rio Grande Valley","UT Rio Grande Valley","Texas Rio Grande Valley","UT Rio Grande Valley Vaqueros",NULL
+325,UTEP,"Texas El Paso",UTEP,UTEP,"UTEP Miners",NULL
+326,UTSA,"Texas San Antonio","UT San Antonio",UTSA,"UTSA Roadrunners",NULL
+327,Utah,Utah,Utah,Utah,"Utah Utes",NULL
+328,"Utah St","Utah State","Utah State","Utah State","Utah State Aggies",NULL
+329,"Utah Valley","Utah Valley","Utah Valley","Utah Valley","Utah Valley Wolverines",NULL
+330,VCU,"Virginia Commonwealth",VCU,VCU,"VCU Rams",NULL
+331,VMI,VMI,VMI,VMI,"VMI Keydets",NULL
+332,Valparaiso,Valparaiso,Valparaiso,Valparaiso,"Valparaiso Crusaders",NULL
+333,Vanderbilt,Vanderbilt,Vanderbilt,Vanderbilt,"Vanderbilt Commodores",NULL
+334,Vermont,Vermont,Vermont,Vermont,"Vermont Catamounts",NULL
+335,Villanova,Villanova,Villanova,Villanova,"Villanova Wildcats",NULL
+336,Virginia,Virginia,Virginia,Virginia,"Virginia Cavaliers",NULL
+337,"Virginia Tech","Virginia Tech","Virginia Tech","Virginia Tech","Virginia Tech Hokies",NULL
+338,Wagner,Wagner,Wagner,Wagner,"Wagner Seahawks",NULL
+339,"Wake Forest","Wake Forest","Wake Forest","Wake Forest","Wake Forest Demon Deacons",NULL
+340,Washington,Washington,Washington,Washington,"Washington Huskies",NULL
+341,"Washington St","Washington State","Washington State","Washington State","Washington St Cougars",NULL
+342,"Weber St","Weber State","Weber State","Weber State","Weber State Wildcats",NULL
+343,"West Virginia","West Virginia","West Virginia","West Virginia","West Virginia Mountaineers",NULL
+344,"Western Carolina","Western Carolina","Western Carolina","Western Carolina","Western Carolina Catamounts",NULL
+345,"Western Illinois","Western Illinois","Western Illinois","Western Illinois","Western Illinois Leathernecks",NULL
+346,"Western Kentucky","Western Kentucky","Western Kentucky","Western Kentucky","Western Kentucky Hilltoppers",NULL
+347,"Western Michigan","Western Michigan","Western Michigan","Western Michigan","Western Michigan Broncos",NULL
+348,"Wichita St","Wichita State","Wichita State","Wichita State","Wichita St Shockers",NULL
+349,"William & Mary","William & Mary","William & Mary","William & Mary","William & Mary Tribe",NULL
+350,Winthrop,Winthrop,Winthrop,Winthrop,"Winthrop Eagles",NULL
+351,Wisconsin,Wisconsin,Wisconsin,Wisconsin,"Wisconsin Badgers",NULL
+352,Wofford,Wofford,Wofford,Wofford,"Wofford Terriers",NULL
+353,"Wright St","Wright State","Wright State","Wright State","Wright St Raiders",NULL
+354,Wyoming,Wyoming,Wyoming,Wyoming,"Wyoming Cowboys",NULL
+355,Xavier,Xavier,Xavier,Xavier,"Xavier Musketeers",NULL
+356,Yale,Yale,Yale,Yale,"Yale Bulldogs",NULL
+357,"Youngstown St","Youngstown State","Youngstown State","Youngstown State","Youngstown St Penguins",NULL
